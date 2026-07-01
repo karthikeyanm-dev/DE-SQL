@@ -1,4 +1,0 @@
-SQL_DE.ipynb
-Untitled.ipynb
-.gitignore.txt
-env/
