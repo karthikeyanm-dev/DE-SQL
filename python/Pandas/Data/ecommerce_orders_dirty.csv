@@ -1,0 +1,1036 @@
+order_id,customer_name,email,phone,city,category,product_name,price,quantity,order_date,payment_method,is_prime_member,rating,delivered
+ORD10924,Vijay Chandran,vijay.chandran@yahoo.com,+910191090488,hyderabad,toys,RC Car,1199,,28/03/2025,Debit Card,Y,3.0,1
+ORD10352,Naveen Menon,naveen.menon@gmail.com,23734-15177, Coimbatore  ,ELECTRONICS,Power Bank,₹199,5.0,03-31-2025,Credit Card,yes,1.0,yes
+ORD10206,Rahul Gupta, rahul.gupta@rediffmail.com ,61032 66421,CHENNAI,ELECTRONICS,Wireless Earbuds,unknown,5.0,13 Nov 2024,UPI,No,,no
+ORD10010,Deepa Kumar,deepa.kumar@gmail.com,1586923226,kolkata,Clothing,Formal Shirt,₹199,5.0,25/02/2025,Credit Card,No,3.0,1
+ORD10626,Kavya Nair, kavya.nair@outlook.com ,3272728129,HYDERABAD,electronics,USB-C Cable,199,3.0,02-18-2024,Cash on Delivery,1,,Yes
+ORD10951,Lakshmi Sharma,lakshmi.sharma@rediffmail.com,6096856888,PUNE,grocery,Cooking Oil 1L,2999,,06-20-2025,Cash on Delivery,0,1.0,N
+ORD10337,Meena Gupta,,+918620448515,kochi,Sports,Dumbbell Set,1999,1.0,2025-04-19,UPI,No,1.0,Y
+ORD10286,Arun Reddy,arun.reddy@rediffmail.com,8664649111, Kochi  ,Beauty,Shampoo,2499,3.0,,Cash on Delivery,,,No
+ORD10164,Sanjay Chandran, sanjay.chandran@gmail.com ,+911403696566,kolkata,Beauty,Lipstick,249,5.0,01/05/2025,UPI,1,1.0,no
+ORD10716,Ritu Pillai,ritu.pillai@yahoo.com,00417-24155,HYDERABAD,BEAUTY,Lipstick,unknown,4.0,01 Dec 2024,Credit Card,0,5.0,yes
+ORD10661,Ritu Menon,ritu.menon@gmail.com,+919539467662,Chennai,Electronic,Power Bank,₹699,3.0,,Debit Card,no,,N
+ORD10682,Naveen Rao,naveen.rao@yahoo.com,+917179890223,Kolkata,HOME & KITCHEN,Mixer Grinder,1499,3.0,,Cash on Delivery,yes,5.0,
+ORD20001,Suresh Menon,suresh.menon@yahoo.com,, Pune  ,Clothing,Formal Shirt,199,2.0,01 Sep 2025,Debit Card,,4.0,0
+ORD10378,Ritu Menon, ritu.menon@outlook.com ,09762 63748,CHENNAI,Grocery,Basmati Rice 5kg,399,4.0,,Net Banking,,,no
+ORD10095,Meena Kumar,,72050-61497,KOCHI,CLOTHING,Formal Shirt,499,5.0,2024-10-25,UPI,No,3.0,yes
+ORD10492,Divya Gupta,divya.gupta@outlook.com,33930 49366,Chennai,Clothing,Cotton T-Shirt,1499,2.0,04-11-2025,Cash on Delivery,No,,Y
+ORD10306,Karthik Kumar,karthik.kumar@rediffmail.com,84979-16202, Kochi  ,Home & Kitchen,Water Bottle,299,1.0,07 Jun 2025,Net Banking,0,1.0,yes
+ORD10970,Ritu Pillai,ritu.pillai@rediffmail.com,+916939953155,DELHI,toys,Action Figure,999,5.0,09-21-2025,,Y,5.0,1
+ORD10670,Pooja Sharma,pooja.sharma@gmail.com,+910643322622, Chennai  ,Sports,Football,unknown,2.0,,UPI,,4.0,Yes
+ORD10271,Lakshmi Nair,lakshmi.nair@outlook.com,62736-52717,KOLKATA,beauty,Lipstick,149,5.0,17/05/2025,Cash on Delivery,Yes,5.0,yes
+ORD10578,Vijay Kumar,vijay.kumar@gmail.com,45813-08898, Chennai  ,sports,Yoga Mat,199,2.0,08 Nov 2024,Net Banking,0,3.0,yes
+ORD10834,Harish Raj, harish.raj@rediffmail.com ,55716 63282,Delhi,clothing,Denim Jeans,149,2.0,2025-03-16,UPI,Y,,No
+ORD10997,Pooja Chandran,pooja.chandran@yahoo.com,, Coimbatore  ,Toys,Action Figure,799,5.0,2025-01-14,,0,1.0,Y
+ORD10327,Pooja Subramaniam, pooja.subramaniam@outlook.com ,06155 81083,Hyderabad,BOOKS,Novel,799,2.0,09/02/2025,Debit Card,Y,,no
+ORD10380,Karthik Iyer,karthik.iyer@gmail.com,,Bangalore,Beauty,Sunscreen,599,,01-28-2025,,no,1.0,No
+ORD10501,Arun Raj,arun.raj@yahoo.com,4181359989,Coimbatore,beauty,Shampoo,349,4.0,2024-05-30,Debit Card,0,1.0,Yes
+ORD10014,Arun Raj,arun.raj@outlook.com,8687277434, Bengaluru  ,toys,RC Car,"4,999",5.0,03-20-2024,Debit Card,no,,no
+ORD10543,Manoj Menon,manoj.menon@rediffmail.com,4212545080, Ahmedabad  ,TOYS,Puzzle Set,499,2.0,09 Nov 2024,UPI,no,4.0,Y
+ORD10591,Vignesh Pillai,vignesh.pillai@gmail.com,61547-31566, Ahmedabad  ,toys,Action Figure,249,3.0,2024-12-21,Cash on Delivery,yes,2.0,N
+ORD10257,Divya Gupta,,88718-98131,Bangalore,Home & Kitchen,Storage Container,1999,2.0,,Debit Card,No,4.0,Yes
+ORD10114,Priya Pillai,priya.pillai@yahoo.com,2122816064,coimbatore,Toys,Puzzle Set,-500,2.0,2024-09-18,UPI,Y,,Yes
+ORD10706,Anitha Reddy,anitha.reddy@gmail.com,7913860157,delhi,Home & Kitchen,Mixer Grinder,699,3.0,28/04/2024,Credit Card,No,2.0,yes
+ORD10756,Anitha Rao,,0409346754,Pune,Grocery,Cooking Oil 1L,799,1.0,10 Mar 2025,Net Banking,Yes,4.0,No
+ORD10315,Rahul Gupta,rahul.gupta@yahoo.com,08509 54930, Chennai  ,TOYS,Building Blocks,199,5.0,2025-03-13,Net Banking,,4.0,1
+ORD10424,Suresh Subramaniam,suresh.subramaniam@gmail.com,+911706955607,delhi,Clothing,Formal Shirt,unknown,3.0,09-18-2024,UPI,no,2.0,yes
+ORD10821,Vijay Pillai,vijay.pillai@yahoo.com,2917964416, Kochi  ,books,Comic Book,"2,999",4.0,2025-06-02,Debit Card,Yes,,no
+ORD20015,Kavya Rao,kavya.rao@yahoo.com,,bengaluru,Toys,RC Car,₹2999,2.0,15 Jun 2024,Credit Card,Yes,,
+ORD10969,Deepa Gupta,deepa.gupta@yahoo.com,+911242664742, Kolkata  ,BOOKS,Cookbook,2499,4.0,25 Oct 2025,Debit Card,Y,,0
+ORD10663,Sanjay Raj,sanjay.raj@outlook.com,5979531926,Mumbai,electronics,USB-C Cable,199,2.0,14/02/2024,Debit Card,0,3.0,no
+ORD10490,Rahul Rao,rahul.rao@rediffmail.com,03044 36199,MUMBAI,Grocery,Tea Powder 500g,4999,5.0,15/06/2024,Cash on Delivery,No,3.0,Yes
+ORD10751,Suresh Menon,suresh.menon@rediffmail.com,6412608481,bengaluru,Home & Kitchen,Storage Container,2499,4.0,2024-06-12,Credit Card,Yes,,1
+ORD10047,Vijay Subramaniam,vijay.subramaniam@yahoo.com,44796 27570,KOCHI,Grocery,Atta 10kg,unknown,4.0,2024-02-28,Credit Card,1,,no
+ORD10614,Priya Subramaniam,priya.subramaniam@rediffmail.com,0113753582,N/A,Clothing,Formal Shirt,"1,199",5.0,,UPI,Yes,1.0,0
+ORD10907,Rahul Reddy,RAHUL.REDDY@OUTLOOK.COM,61189 26055,Kolkata,CLOTHING,Kurti,₹399,3.0,12-25-2024,Credit Card,1,4.0,
+ORD10187,Priya Reddy,priya.reddy@outlook.com,+918952028457,ahmedabad,Beauty,Moisturizer,499,2.0,07 Jun 2024,Cash on Delivery,N,3.0,
+ORD10903,Vijay Kumar, vijay.kumar@yahoo.com ,05994-69669,Coimbatore,Books,Comic Book,249,1.0,10/09/2024,Debit Card,Yes,,Yes
+ORD10154,Vijay Kumar,vijay.kumar@outlook.com,3094077780, Chennai  ,HOME & KITCHEN,Water Bottle,349,2.0,,UPI,0,3.0,No
+ORD10390,Kavya Sharma,kavya.sharma@yahoo.com,7036924926,Delhi,beauty,Shampoo,349,5.0,,Net Banking,Y,1.0,0
+ORD10900,Kavya Rao,kavya.rao@yahoo.com,,bengaluru,Toys,RC Car,₹2999,2.0,15 Jun 2024,Credit Card,Yes,,
+ORD10165,Kavya Iyer,kavya.iyer@rediffmail.com,92786-87653, Coimbatore  ,beauty,Sunscreen,149,1.0,30 Aug 2024,Debit Card,,1.0,no
+ORD10025,Kavya Raj,kavya.raj@yahoo.com,98214 65840,Delhi,Books,Textbook,299,2.0,,UPI,0,4.0,
+ORD10427,Arun Rao,arun.rao@rediffmail.com,+919016204787,Mumbai,Electronic,Bluetooth Speaker,399,2.0,,UPI,,5.0,no
+ORD10254,Suresh Reddy,suresh.reddy@outlook.com,37460-52330,Chennai,Books,Textbook,349,2.0,06/11/2025,UPI,,3.0,1
+ORD10644,Karthik Pillai,karthik.pillai@yahoo.com,5337170864,Kochi,Home & Kitchen,Storage Container,unknown,5.0,2024-06-10,Credit Card,,,N
+ORD10099,Sneha Subramaniam,sneha.subramaniam@gmail.com,86289-02330, Mumbai  ,GROCERY,Atta 10kg,1999,1.0,22/12/2025,Net Banking,0,,
+ORD10586,Sanjay Raj,sanjay.raj@gmail.com,8573908352, Kolkata  ,beauty,Sunscreen,1499,5.0,10 Nov 2025,UPI,yes,3.0,Y
+ORD10652,Vijay Rao,vijay.rao@outlook.com,3983912260,N/A,Grocery,Sugar 1kg,399,-1.0,,Cash on Delivery,Y,2.0,No
+ORD20020,Suresh Iyer,suresh.iyer@gmail.com,5350637311,ahmedabad,Home & Kitchen,Non-stick Pan,unknown,2.0,05-18-2025,Debit Card,N,2.0,Yes
+ORD10263,Lakshmi Kumar, lakshmi.kumar@yahoo.com ,+914807970509,Mumbai,Toys,Action Figure,₹399,1.0,24/12/2024,Credit Card,Yes,3.0,No
+ORD10147,Ritu Menon, ritu.menon@outlook.com ,77053 83388,Bengaluru,Home & Kitchen,Non-stick Pan,599,3.0,2024-05-24,Credit Card,,2.0,Yes
+ORD10715,Kavya Menon,kavya.menon@gmail.com,,pune,books,Textbook,699,,14/10/2024,Net Banking,1,4.0,Y
+ORD10944,Ritu Reddy,ritu.reddy@yahoo.com,7047314836,Ahmedabad,Books,Textbook,unknown,4.0,05-23-2025,,Yes,2.0,N
+ORD10309,Kavya Raj, kavya.raj@rediffmail.com ,34774-33268,Pune,ELECTRONICS,Wireless Earbuds,199,1.0,2025-11-15,Credit Card,Y,2.0,Yes
+ORD10186,Divya Chandran,divya.chandran@rediffmail.com,15890 42902, Delhi  ,Beauty,Sunscreen,2999,2.0,2024-06-16,Credit Card,1,5.0,no
+ORD10026,Pooja Sharma,pooja.sharma@rediffmail.com,2702895171, Mumbai  ,Sports,Dumbbell Set,999,2.0,23/02/2025,Credit Card,yes,3.0,no
+ORD10996,Meena Nair,meena.nair@gmail.com,+912534238670,HYDERABAD,beauty,Moisturizer,699,1.0,17 May 2024,Net Banking,N,2.0,
+ORD10109,Harish Subramaniam,harish.subramaniam@rediffmail.com,,Kochi,Clothing,Formal Shirt,"2,999",4.0,2024-10-11,Credit Card,,1.0,1
+ORD10061,Sanjay Raj,sanjay.raj@rediffmail.com,6618251286, Bengaluru  ,Electronic,Smartwatch,249,1.0,01-24-2024,Credit Card,,3.0,1
+ORD10570,Rahul Gupta,rahul.gupta@gmail.com,8687640191,Hyderabad,books,Novel,249,2.0,02-02-2025,UPI,Y,,Yes
+ORD10217,Lakshmi Reddy, lakshmi.reddy@rediffmail.com ,+917371586988,ahmedabad,beauty,Shampoo,4999,1.0,,UPI,0,4.0,1
+ORD10298,Kavya Nair,kavya.nair@yahoo.com,8978610313,Pune,Home & Kitchen,Water Bottle,1999,1.0,2024-09-01,Credit Card,yes,,N
+ORD10814,Manoj Gupta, manoj.gupta@outlook.com ,60516 48389,Mumbai,Grocery,Sugar 1kg,unknown,4.0,2024-09-22,UPI,0,4.0,1
+ORD10169,Divya Rao,divya.rao@yahoo.com,+915800106181,Delhi,Sports,Running Shoes,699,3.0,2024-07-16,,No,4.0,Yes
+ORD10883,Vignesh Nair,VIGNESH.NAIR@REDIFFMAIL.COM,5717490584, Ahmedabad  ,grocery,Sugar 1kg,1999,4.0,10-08-2024,Net Banking,Yes,5.0,
+ORD10962,Suresh Reddy,suresh.reddy@yahoo.com,5185255768,kochi,SPORTS,Cricket Bat,4999,3.0,12 Dec 2024,Net Banking,Yes,2.0,
+ORD10505,Lakshmi Gupta,lakshmi.gupta@outlook.com,87991 60911,Kochi,Books,Cookbook,150000,3.0,09-11-2024,Debit Card,Y,5.0,N
+ORD10141,Pooja Rao,POOJA.RAO@REDIFFMAIL.COM,6789940539,N/A,HOME & KITCHEN,LED Bulb,"1,999",1.0,,Debit Card,Yes,2.0,no
+ORD10519,Kavya Rao,kavya.rao@rediffmail.com,+915459671500,Bengaluru,home & kitchen,LED Bulb,799,5.0,2024-10-02,Credit Card,1,2.0,no
+ORD10335,Pooja Subramaniam,pooja.subramaniam@yahoo.com,0375830945, Pune  ,Beauty,Moisturizer,₹1999,2.0,14 Jan 2024,UPI,yes,,0
+ORD10126,Divya Rao,divya.rao@outlook.com,8872588744,AHMEDABAD,Electronic,Bluetooth Speaker,999,1.0,2024-05-21,UPI,0,,Y
+ORD10447,Lakshmi Sharma,lakshmi.sharma@yahoo.com,40672-00784,hyderabad,Toys,Board Game,₹699,2.0,13/10/2024,Net Banking,Yes,3.0,0
+ORD10603,Kavya Sharma,kavya.sharma@gmail.com,+913000088634,hyderabad,Beauty,Sunscreen,349,1.0,2024-01-05,Net Banking,No,,No
+ORD10987,Rahul Menon, rahul.menon@yahoo.com ,7865039475,Pune,Clothing,Formal Shirt,unknown,5.0,,Net Banking,No,2.0,0
+ORD10750,Kavya Chandran,kavya.chandran@outlook.com,60919 35117,Mumbai,toys,Puzzle Set,₹299,5.0,01/12/2025,Debit Card,Yes,5.0,1
+ORD10683,Naveen Kumar,naveen.kumar@gmail.com,90737 81591, Coimbatore  ,Beauty,Shampoo,999,1.0,11-05-2024,Net Banking,1,3.0,Y
+ORD10881,Ritu Pillai,,01785-02050,Bengaluru,grocery,Atta 10kg,₹1999,1.0,16/06/2024,Credit Card,Y,,Yes
+ORD10602,Rahul Kumar, rahul.kumar@outlook.com ,83692 35348,COIMBATORE,Books,Comic Book,₹249,1.0,10 Feb 2024,Cash on Delivery,N,,
+ORD10027,Ritu Subramaniam,ritu.subramaniam@yahoo.com,17240 05045,Chennai,Toys,Puzzle Set,"1,499",4.0,02/08/2025,Credit Card,No,2.0,1
+ORD10708,Ritu Raj,ritu.raj@yahoo.com,26168-45525,Delhi,Toys,Board Game,unknown,2.0,2024-03-17,Credit Card,no,,yes
+ORD10719,Kavya Raj,kavya.raj@gmail.com,5616225647, Mumbai  ,Electronics,USB-C Cable,₹599,2.0,09-06-2025,,0,4.0,Y
+ORD10617,Sanjay Sharma,,0842431983, Hyderabad  ,Home & Kitchen,LED Bulb,199,4.0,2025-05-30,Credit Card,Yes,1.0,yes
+ORD10400,Sanjay Menon,sanjay.menon@outlook.com,93993 37970,MUMBAI,Clothing,Kurti,1199,2.0,31 May 2024,Net Banking,,,0
+ORD10035,Karthik Raj,karthik.raj@rediffmail.com,9451983273,Kochi,Clothing,Cotton T-Shirt,1199,5.0,12 Oct 2024,UPI,1,,
+ORD10054,Priya Kumar,priya.kumar@outlook.com,79470 55169,HYDERABAD,HOME & KITCHEN,Storage Container,4999,5.0,2025-10-06,Cash on Delivery,yes,3.0,N
+ORD10245,Ritu Pillai,ritu.pillai@yahoo.com,4233629344,Mumbai,sports,Dumbbell Set,149,4.0,2025-05-07,Debit Card,no,2.0,1
+ORD10598,Suresh Kumar, suresh.kumar@gmail.com ,+910017325900,Bangalore,ELECTRONICS,Bluetooth Speaker,unknown,4.0,,UPI,No,2.0,No
+ORD10808,Deepa Gupta,deepa.gupta@outlook.com,18513 67380,DELHI,HOME & KITCHEN,Water Bottle,799,3.0,25 Oct 2025,Net Banking,N,3.0,0
+ORD10260,,rahul.raj@yahoo.com,2849718594,delhi,Clothing,Cotton T-Shirt,999,3.0,06-23-2024,Debit Card,1,3.0,Y
+ORD10564,Naveen Subramaniam,naveen.subramaniam@yahoo.com,83872-72581, Coimbatore  ,TOYS,Board Game,2499,1.0,08-21-2025,UPI,,,yes
+ORD10943,Anitha Nair,anitha.nair@outlook.com,+915858618881,Coimbatore,BOOKS,Comic Book,2499,4.0,2024-05-13,Credit Card,Y,1.0,0
+ORD10408,Divya Kumar,divya.kumar@yahoo.com,3107201137,Kolkata,sports,Cricket Bat,₹1999,3.0,20 Dec 2025,UPI,Y,,N
+ORD10769,Priya Pillai,priya.pillai@outlook.com,,Kochi,books,Self-help Book,"1,999",1.0,2025-01-11,UPI,yes,3.0,0
+ORD10822,Karthik Subramaniam,karthik.subramaniam@gmail.com,41648 79210,chennai,electronics,USB-C Cable,"2,999",1.0,2024-11-23,Debit Card,no,,Y
+ORD10418,Naveen Gupta, naveen.gupta@rediffmail.com ,2054647548,KOCHI,books,Textbook,₹4999,2.0,26 Apr 2025,Net Banking,,,Y
+ORD10455,Priya Kumar, priya.kumar@outlook.com ,02556-18444, Mumbai  ,Electronics,Wireless Earbuds,249,5.0,13 Aug 2025,Credit Card,0,4.0,
+ORD10421,Sanjay Reddy,sanjay.reddy@outlook.com,, Coimbatore  ,toys,Puzzle Set,199,4.0,01/10/2024,Net Banking,1,3.0,N
+ORD10974,Kavya Sharma,kavya.sharma@rediffmail.com,2790423381,Kochi,clothing,Formal Shirt,999,5.0,2025-09-22,UPI,0,2.0,Yes
+ORD10674,Sneha Iyer,sneha.iyer@rediffmail.com,58416 80613,Kochi,HOME & KITCHEN,Storage Container,₹2499,4.0,23 Apr 2025,Cash on Delivery,yes,2.0,1
+ORD10624,Divya Pillai,divya.pillai@outlook.com,9039220269,N/A,Home & Kitchen,LED Bulb,₹399,5.0,02-11-2025,Cash on Delivery,No,4.0,Yes
+ORD10515,Suresh Reddy,suresh.reddy@rediffmail.com,+915446083851, Kolkata  ,BOOKS,Self-help Book,"99,999",5.0,2025-07-19,,no,5.0,N
+ORD10368,Sanjay Reddy,sanjay.reddy@yahoo.com,+916509775396, Chennai  ,HOME & KITCHEN,Storage Container,unknown,5.0,,Credit Card,yes,,
+ORD10329,Divya Subramaniam,divya.subramaniam@rediffmail.com,+916847488360,CHENNAI,toys,Board Game,₹799,4.0,,UPI,Yes,4.0,1
+ORD10762,Anitha Subramaniam,ANITHA.SUBRAMANIAM@YAHOO.COM,62911-87228,Ahmedabad,CLOTHING,Jacket,399,2.0,2024-01-21,Debit Card,0,4.0,1
+ORD10376,Karthik Raj,KARTHIK.RAJ@YAHOO.COM,4073333732,Kolkata,TOYS,RC Car,999,4.0,,UPI,,5.0,N
+ORD10770,Kavya Sharma,kavya.sharma@rediffmail.com,1370542451,Delhi,Clothing,Jacket,"1,999",3.0,2024-03-18,,N,,no
+ORD10922,Manoj Kumar,manoj.kumar@outlook.com,32895 91038,coimbatore,Toys,Action Figure,"4,999",1.0,25/01/2025,UPI,no,4.0,no
+ORD10529,Divya Gupta,divya.gupta@outlook.com,41201 22759,chennai,electronics,Smartwatch,799,,2025-03-03,Debit Card,No,,no
+ORD10667,Sanjay Kumar,sanjay.kumar@rediffmail.com,+911833597487, Kochi  ,Sports,Yoga Mat,249,5.0,2025-04-24,Net Banking,N,,0
+ORD10500,Pooja Chandran,pooja.chandran@rediffmail.com,07794-33256,Kolkata,Books,Self-help Book,2499,1.0,16 Nov 2025,Cash on Delivery,No,,0
+ORD10450,Manoj Menon, manoj.menon@gmail.com ,+912333510409,hyderabad,Books,Comic Book,₹149,1.0,05/04/2025,Net Banking,N,,No
+ORD10749,Manoj Kumar,manoj.kumar@yahoo.com,53111 23590,Coimbatore,Home & Kitchen,LED Bulb,499,1.0,,UPI,Y,,
+ORD10875,Sanjay Kumar,,70151-20039, Chennai  ,home & kitchen,Mixer Grinder,199,,22 Mar 2025,Credit Card,Y,4.0,No
+ORD10571,Priya Pillai,priya.pillai@gmail.com,2192622132, Kolkata  ,Home & Kitchen,Storage Container,4999,3.0,16 Jun 2024,UPI,N,,No
+ORD10100,Vijay Chandran,vijay.chandran@outlook.com,6029333346,N/A,Clothing,Formal Shirt,1199,,15/05/2024,Cash on Delivery,Yes,3.0,N
+ORD10568,Rahul Gupta,rahul.gupta@outlook.com,20616-58129,N/A,Home & Kitchen,Storage Container,₹499,5.0,10/06/2024,UPI,No,2.0,No
+ORD10948,Vijay Sharma,vijay.sharma@gmail.com,49195 38088,COIMBATORE,grocery,Sugar 1kg,unknown,5.0,15/07/2024,Cash on Delivery,Yes,2.0,0
+ORD10621,Naveen Chandran,naveen.chandran@outlook.com,20763-27135,Kolkata,Home & Kitchen,Non-stick Pan,unknown,3.0,09/12/2025,Net Banking,Y,2.0,N
+ORD10493,Sneha Iyer,sneha.iyer@yahoo.com,,HYDERABAD,Clothing,Denim Jeans,149,4.0,01-10-2025,Credit Card,No,5.0,Yes
+ORD10782,,vijay.pillai@rediffmail.com,6829052565,Kolkata,CLOTHING,Denim Jeans,2999,1.0,2025-09-25,Net Banking,Y,,N
+ORD10795,Suresh Raj,suresh.raj@rediffmail.com,4862675119,Pune,BOOKS,Self-help Book,₹249,3.0,01 Oct 2024,Debit Card,no,5.0,No
+ORD10792,,vignesh.pillai@outlook.com,9903803514,bengaluru,Electronic,Bluetooth Speaker,₹349,1.0,27/07/2025,Cash on Delivery,yes,4.0,yes
+ORD10464,Lakshmi Chandran,lakshmi.chandran@gmail.com,08356-69106,Chennai,ELECTRONICS,Bluetooth Speaker,2999,4.0,2024-08-05,Credit Card,N,1.0,yes
+ORD10818,Suresh Pillai,suresh.pillai@yahoo.com,0682432333,Bengaluru,Books,Textbook,399,4.0,08-23-2024,Net Banking,Yes,,1
+ORD10876,Vijay Iyer,vijay.iyer@gmail.com,+912260082283,Hyderabad,clothing,Formal Shirt,₹599,1.0,02-25-2024,Net Banking,,,no
+ORD10841,Meena Gupta,meena.gupta@rediffmail.com,51896 22527,Ahmedabad,beauty,Face Wash,2999,,10/05/2024,Net Banking,N,3.0,yes
+ORD10738,Suresh Menon,suresh.menon@yahoo.com,, Pune  ,Clothing,Formal Shirt,199,2.0,01 Sep 2025,Debit Card,,4.0,0
+ORD10111,Divya Raj, divya.raj@rediffmail.com ,+916373516091,Pune,Books,Cookbook,1199,3.0,,,Yes,2.0,
+ORD10678,Vignesh Rao,vignesh.rao@outlook.com,09619-79797,Kochi,Toys,RC Car,₹199,3.0,07-22-2025,Cash on Delivery,no,2.0,1
+ORD10058,Arun Reddy,arun.reddy@yahoo.com,05493 29668,Hyderabad,CLOTHING,Denim Jeans,2499,5.0,,Net Banking,N,3.0,Yes
+ORD10320,Naveen Subramaniam,naveen.subramaniam@yahoo.com,+919294455116,Coimbatore,TOYS,Building Blocks,"1,199",1.0,09/10/2025,Debit Card,0,4.0,Yes
+ORD20012,Suresh Nair,suresh.nair@rediffmail.com,3727768576, Bengaluru  ,clothing,Formal Shirt,1999,5.0,14 Sep 2024,UPI,Yes,2.0,yes
+ORD10869,Sanjay Menon,sanjay.menon@outlook.com,44410-76926,AHMEDABAD,toys,Building Blocks,₹149,4.0,08-25-2024,Cash on Delivery,no,5.0,No
+ORD10139,Manoj Kumar,manoj.kumar@yahoo.com,0052812735, Ahmedabad  ,HOME & KITCHEN,Water Bottle,₹299,-1.0,25/03/2025,,1,2.0,no
+ORD10180,Lakshmi Kumar,lakshmi.kumar@outlook.com,9335548640,Kochi,Clothing,Denim Jeans,unknown,3.0,2025-06-23,Cash on Delivery,,,
+ORD10443,Anitha Reddy,anitha.reddy@gmail.com,4600452128,HYDERABAD,TOYS,Building Blocks,299,3.0,04-07-2024,Net Banking,no,2.0,No
+ORD10816,Deepa Raj,deepa.raj@outlook.com,10797 64754,Coimbatore,Sports,Yoga Mat,unknown,2.0,,Cash on Delivery,1,3.0,N
+ORD10044,Kavya Kumar,,72779-01043,Pune,TOYS,RC Car,1499,3.0,2025-03-09,UPI,N,,yes
+ORD10885,Meena Raj,meena.raj@gmail.com,4259720554,coimbatore,BOOKS,Comic Book,1999,2.0,10 May 2025,UPI,Y,,No
+ORD10064,Rahul Nair,rahul.nair@yahoo.com,0331739363,Kolkata,Sports,Dumbbell Set,₹1199,2.0,06-30-2025,Cash on Delivery,no,1.0,
+ORD10837,Deepa Iyer,deepa.iyer@outlook.com,5640783083,coimbatore,Toys,RC Car,4999,4.0,16 Jun 2025,Credit Card,no,,No
+ORD10229,Ritu Chandran, ritu.chandran@gmail.com ,39284-56797,Pune,Electronic,Power Bank,2499,5.0,15 Nov 2024,Net Banking,no,5.0,yes
+ORD10039,Manoj Iyer,manoj.iyer@yahoo.com,+917799799552,hyderabad,Clothing,Jacket,unknown,3.0,08 Oct 2024,Credit Card,,2.0,No
+ORD10976,Pooja Subramaniam,pooja.subramaniam@outlook.com,+914732043192,hyderabad,Sports,Cricket Bat,199,1.0,,Credit Card,Yes,4.0,Y
+ORD10558,Sanjay Sharma, SANJAY.SHARMA@YAHOO.COM ,97202 17075,Kochi,toys,Board Game,2999,2.0,,Cash on Delivery,0,,Y
+ORD10985,Deepa Iyer,deepa.iyer@outlook.com,5699971252,ahmedabad,Clothing,Kurti,699,3.0,,UPI,1,,No
+ORD10956,Rahul Gupta,rahul.gupta@rediffmail.com,78935-05260, Chennai  ,Grocery,Tea Powder 500g,2999,2.0,,Credit Card,0,3.0,Yes
+ORD10172,Divya Gupta,divya.gupta@yahoo.com,46157-17320,N/A,SPORTS,Football,1499,1.0,2025-02-02,Net Banking,yes,,0
+ORD10668,Pooja Subramaniam,pooja.subramaniam@yahoo.com,7323964402,Hyderabad,CLOTHING,Formal Shirt,₹149,1.0,,Cash on Delivery,0,3.0,1
+ORD10803,Ritu Reddy,ritu.reddy@yahoo.com,+914704071469,KOCHI,GROCERY,Tea Powder 500g,299,4.0,19 May 2025,Credit Card,N,,yes
+ORD10790,Arun Kumar,arun.kumar@outlook.com,5802860604,N/A,GROCERY,Tea Powder 500g,999,2.0,03-04-2025,Net Banking,0,1.0,yes
+ORD10612,Naveen Nair,naveen.nair@rediffmail.com,05110-21254,Kochi,Electronic,Bluetooth Speaker,₹799,5.0,09/07/2024,Debit Card,No,,1
+ORD10643,Pooja Nair,pooja.nair@outlook.com,9221704861, Kochi  ,toys,Puzzle Set,399,5.0,,Net Banking,Y,1.0,Yes
+ORD10916,Anitha Reddy,anitha.reddy@outlook.com,5726765419,kolkata,beauty,Shampoo,2999,5.0,08-23-2025,Cash on Delivery,no,4.0,Yes
+ORD10992,Priya Subramaniam,priya.subramaniam@rediffmail.com,1202241756,Bengaluru,Electronic,Wireless Earbuds,599,5.0,,Net Banking,No,5.0,
+ORD10171,Meena Chandran, meena.chandran@rediffmail.com ,+910064256908,Delhi,Grocery,Cooking Oil 1L,unknown,1.0,12 Mar 2024,Credit Card,1,1.0,0
+ORD10285,Ritu Nair,,2791033682,Pune,clothing,Denim Jeans,₹0,2.0,14 Jul 2024,Net Banking,no,3.0,no
+ORD10757,Anitha Rao, anitha.rao@yahoo.com ,2532083168,MUMBAI,Home & Kitchen,Mixer Grinder,249,3.0,2025-03-01,Net Banking,No,1.0,0
+ORD10197,Kavya Pillai,kavya.pillai@gmail.com,86603 24204,Delhi,Sports,Cricket Bat,"1,999",3.0,,Debit Card,Yes,4.0,No
+ORD10743,Ritu Menon, ritu.menon@outlook.com ,65789 39129,Kochi,TOYS,Building Blocks,₹499,3.0,01 Jul 2025,UPI,No,1.0,yes
+ORD10362,Karthik Chandran,karthik.chandran@rediffmail.com,9600356243,bengaluru,TOYS,Action Figure,₹2499,2.0,31/10/2025,Cash on Delivery,no,3.0,Y
+ORD10512,Deepa Rao,deepa.rao@yahoo.com,0472642612, Kolkata  ,Toys,Building Blocks,149,5.0,14/09/2024,Net Banking,0,5.0,no
+ORD10835,Deepa Chandran,deepa.chandran@rediffmail.com,9771433608,BENGALURU,Sports,Cricket Bat,999,,2024-02-15,Credit Card,1,3.0,No
+ORD10397,Harish Kumar, harish.kumar@rediffmail.com ,95919 45757,Chennai,BEAUTY,Sunscreen,unknown,4.0,13/07/2024,Net Banking,Yes,1.0,no
+ORD10062,Deepa Pillai,deepa.pillai@gmail.com,7903067383,Bengaluru,books,Textbook,₹1199,2.0,08-12-2025,Net Banking,no,5.0,N
+ORD10610,Naveen Kumar,naveen.kumar@rediffmail.com,49477 12903,N/A,Toys,Action Figure,unknown,4.0,21 Apr 2024,Credit Card,0,5.0,yes
+ORD10831,Suresh Menon,suresh.menon@yahoo.com,+917549393439,delhi,grocery,Atta 10kg,₹999,1.0,05 Aug 2024,Debit Card,no,1.0,Y
+ORD10340,Meena Pillai,meena.pillai@rediffmail.com,73459-57640,Coimbatore,GROCERY,Atta 10kg,299,3.0,03-12-2025,Debit Card,1,,Yes
+ORD10531,Rahul Sharma,rahul.sharma@gmail.com,99285-53595,Delhi,Home & Kitchen,Mixer Grinder,unknown,5.0,,Credit Card,Yes,5.0,Yes
+ORD10939,Rahul Kumar, rahul.kumar@yahoo.com ,2313799818,Coimbatore,grocery,Atta 10kg,499,4.0,,Cash on Delivery,yes,2.0,Y
+ORD10524,Harish Iyer, harish.iyer@gmail.com ,8507105801,kochi,SPORTS,Yoga Mat,199,5.0,2025-04-19,Debit Card,No,,no
+ORD10709,Pooja Subramaniam, pooja.subramaniam@gmail.com ,56756-35584,AHMEDABAD,Clothing,Jacket,699,3.0,,Cash on Delivery,1,5.0,Y
+ORD10300,Meena Chandran,meena.chandran@yahoo.com,5775847457,Chennai,ELECTRONICS,Power Bank,₹149,2.0,14 Jun 2025,Cash on Delivery,yes,,
+ORD10351,Pooja Subramaniam,pooja.subramaniam@yahoo.com,+919523710068, Coimbatore  ,BOOKS,Self-help Book,799,1.0,23 Sep 2024,Debit Card,,,Yes
+ORD10975,Priya Sharma,,70259-96114,Delhi,home & kitchen,Water Bottle,249,3.0,02-15-2024,Net Banking,Yes,3.0,0
+ORD10363,Vignesh Iyer,vignesh.iyer@outlook.com,+912643350271,N/A,BOOKS,Self-help Book,299,5.0,,Cash on Delivery,0,3.0,1
+ORD20026,Priya Gupta,priya.gupta@yahoo.com,75842-82417, Kolkata  ,TOYS,RC Car,149,3.0,07-06-2024,Net Banking,N,,no
+ORD10110,Vijay Nair,,1994883755, Bengaluru  ,Clothing,Kurti,unknown,4.0,26 Sep 2025,Credit Card,no,1.0,0
+ORD10474,Deepa Raj,deepa.raj@gmail.com,62985-79736,Hyderabad,Home & Kitchen,Storage Container,4999,2.0,27 Apr 2024,Net Banking,no,,1
+ORD10205,Naveen Menon,naveen.menon@gmail.com,1371504165,Hyderabad,clothing,Cotton T-Shirt,1199,3.0,2024-06-06,UPI,0,5.0,0
+ORD10233,Vijay Subramaniam,vijay.subramaniam@outlook.com,2897317912,Ahmedabad,SPORTS,Running Shoes,1999,2.0,,Debit Card,Y,,no
+ORD10595,,,53860 28262,Delhi,books,Self-help Book,"1,499",4.0,2024-09-25,Debit Card,Y,,N
+ORD10295,Naveen Menon, naveen.menon@yahoo.com ,80040 10414,Hyderabad,CLOTHING,Jacket,unknown,1.0,23/06/2024,UPI,No,,Y
+ORD10894,Harish Pillai,harish.pillai@yahoo.com,+914895587700, Delhi  ,Sports,Running Shoes,149,3.0,09-25-2024,Net Banking,yes,,Y
+ORD10627,Suresh Pillai, suresh.pillai@outlook.com ,8640675602,KOCHI,Toys,Action Figure,999,4.0,15 Apr 2024,UPI,Y,2.0,Yes
+ORD10149,Arun Sharma,arun.sharma@outlook.com,+912168936392,CHENNAI,SPORTS,Football,599,5.0,09/07/2025,Net Banking,Y,,
+ORD10940,Kavya Sharma,kavya.sharma@yahoo.com,2544225351,DELHI,Grocery,Cooking Oil 1L,999,4.0,10 Jul 2024,,Yes,4.0,N
+ORD10159,Karthik Menon,,8235784521,Pune,BOOKS,Textbook,799,3.0,,Debit Card,,1.0,No
+ORD10631,Manoj Iyer,manoj.iyer@gmail.com,84524 03211, Ahmedabad  ,TOYS,Action Figure,₹299,2.0,2024-11-21,Credit Card,Y,4.0,No
+ORD10467,Harish Reddy,harish.reddy@outlook.com,2312342669,Pune,HOME & KITCHEN,Water Bottle,1499,5.0,2025-12-17,Credit Card,0,3.0,Y
+ORD10554,Divya Gupta,,15057 64497,AHMEDABAD,Clothing,Denim Jeans,799,5.0,,Debit Card,0,2.0,1
+ORD10826,Manoj Menon,manoj.menon@yahoo.com,77367 72443, Ahmedabad  ,Beauty,Lipstick,₹399,4.0,,Debit Card,Y,4.0,1
+ORD10024,Pooja Reddy,pooja.reddy@gmail.com,7034824771,Kolkata,Toys,Action Figure,249,3.0,27/12/2025,Credit Card,Yes,,
+ORD10581,Pooja Iyer,POOJA.IYER@OUTLOOK.COM,+917648455939,CHENNAI,Sports,Cricket Bat,399,2.0,25 Aug 2024,Debit Card,Yes,2.0,0
+ORD10129,Divya Rao,divya.rao@gmail.com,3565880434, Coimbatore  ,BEAUTY,Shampoo,1499,2.0,18 Mar 2024,Cash on Delivery,0,,no
+ORD10223,Deepa Pillai,deepa.pillai@rediffmail.com,8402891416,Hyderabad,Grocery,Basmati Rice 5kg,2499,5.0,,Credit Card,,4.0,no
+ORD10481,Vignesh Reddy,,36415-47155,KOCHI,Clothing,Cotton T-Shirt,2999,2.0,26/09/2025,Cash on Delivery,0,2.0,
+ORD10732,Manoj Rao,manoj.rao@rediffmail.com,8345150252,chennai,Beauty,Shampoo,₹2999,-3.0,2024-09-01,Cash on Delivery,0,3.0,N
+ORD10479,Sanjay Kumar,sanjay.kumar@rediffmail.com,94232-89463,PUNE,Electronics,Bluetooth Speaker,699,2.0,,UPI,No,3.0,no
+ORD10844,Vijay Chandran,vijay.chandran@gmail.com,9256924768,CHENNAI,CLOTHING,Cotton T-Shirt,599,-1.0,16/02/2024,Net Banking,yes,,No
+ORD10345,Divya Menon,divya.menon@rediffmail.com,50863-21812,Chennai,GROCERY,Basmati Rice 5kg,unknown,3.0,,UPI,N,2.0,
+ORD10438,Kavya Subramaniam,kavya.subramaniam@rediffmail.com,99359-37440,Pune,Electronic,USB-C Cable,799,4.0,2024-09-28,Net Banking,Yes,5.0,N
+ORD10695,Karthik Iyer,karthik.iyer@outlook.com,8731439151, Kolkata  ,ELECTRONICS,Wireless Earbuds,unknown,4.0,26/02/2025,Credit Card,Yes,5.0,0
+ORD20014,Rahul Kumar, rahul.kumar@yahoo.com ,2313799818,Coimbatore,grocery,Atta 10kg,499,4.0,,Cash on Delivery,yes,2.0,Y
+ORD20028,Vijay Kumar, vijay.kumar@yahoo.com ,05994-69669,Coimbatore,Books,Comic Book,249,1.0,10/09/2024,Debit Card,Yes,,Yes
+ORD10965,Ritu Reddy, ritu.reddy@rediffmail.com ,50276 74906,hyderabad,Beauty,Shampoo,699,1.0,,Cash on Delivery,0,3.0,1
+ORD10569,Manoj Pillai,manoj.pillai@rediffmail.com,2066154980,kolkata,Books,Self-help Book,999,5.0,19/04/2024,Net Banking,Yes,,Yes
+ORD10931,Arun Menon, arun.menon@yahoo.com ,4003717758,Hyderabad,Clothing,Cotton T-Shirt,349,2.0,18 Sep 2024,,1,3.0,No
+ORD10514,Deepa Gupta,deepa.gupta@rediffmail.com,50801 96304,MUMBAI,Grocery,Sugar 1kg,"2,499",,15/09/2025,Debit Card,,4.0,
+ORD10664,Pooja Reddy,pooja.reddy@gmail.com,65583-44566,AHMEDABAD,SPORTS,Football,349,3.0,14/01/2025,UPI,0,3.0,Yes
+ORD10135,Anitha Nair,anitha.nair@outlook.com,82997 96884,PUNE,Beauty,Sunscreen,349,2.0,03-28-2025,Net Banking,yes,4.0,Y
+ORD10599,Vignesh Rao,vignesh.rao@outlook.com,19281-70744,Hyderabad,Toys,Board Game,"2,999",4.0,11-04-2024,Credit Card,Y,,Y
+ORD10016,Vijay Subramaniam,vijay.subramaniam@outlook.com,64641-70805,Chennai,Home & Kitchen,Mixer Grinder,149,5.0,01/02/2024,Net Banking,Yes,2.0,Y
+ORD10863,Rahul Sharma,rahul.sharma@outlook.com,1764296280, Ahmedabad  ,BEAUTY,Face Wash,149,4.0,01-07-2024,Credit Card,1,1.0,1
+ORD10160,Arun Reddy,arun.reddy@outlook.com,7142241098,Delhi,Electronics,Smartwatch,2499,1.0,11-22-2024,Cash on Delivery,yes,,N
+ORD10838,Rahul Sharma,rahul.sharma@rediffmail.com,71164 56059,Delhi,beauty,Shampoo,"2,499",3.0,2024-09-11,Credit Card,0,4.0,N
+ORD10559,Suresh Kumar, suresh.kumar@gmail.com ,21375-65896,Kolkata,Books,Novel,₹799,4.0,2025-04-27,Debit Card,1,,No
+ORD10446,Rahul Nair, RAHUL.NAIR@YAHOO.COM ,0162341903,delhi,Clothing,Denim Jeans,99999,4.0,15/12/2024,Cash on Delivery,Y,2.0,No
+ORD10049,Ritu Reddy,ritu.reddy@outlook.com,25831 32370,Coimbatore,grocery,Basmati Rice 5kg,₹349,4.0,18/07/2025,UPI,No,,No
+ORD10710,Lakshmi Pillai,LAKSHMI.PILLAI@GMAIL.COM,+918624087100,Chennai,Sports,Football,1499,4.0,2024-10-05,UPI,,,Y
+ORD10075,Rahul Subramaniam,rahul.subramaniam@rediffmail.com,92499 12513, Delhi  ,Clothing,Jacket,₹399,2.0,,Cash on Delivery,Y,,1
+ORD10173,Deepa Menon,DEEPA.MENON@YAHOO.COM,0790320204,Mumbai,Electronics,Smartwatch,199,1.0,2024-03-06,Net Banking,N,,No
+ORD10873,Sanjay Reddy,sanjay.reddy@gmail.com,61222 83056,Ahmedabad,Grocery,Basmati Rice 5kg,399,5.0,2024-09-11,Debit Card,no,4.0,no
+ORD10386,Sanjay Reddy, sanjay.reddy@yahoo.com ,1369572790,mumbai,Clothing,Kurti,499,5.0,2024-11-21,Cash on Delivery,Y,1.0,no
+ORD10604,Rahul Raj,rahul.raj@rediffmail.com,85481-86746, Hyderabad  ,Toys,Building Blocks,249,2.0,26 Aug 2025,Debit Card,N,4.0,N
+ORD10221,Karthik Rao, karthik.rao@gmail.com ,22412 46209, Hyderabad  ,Sports,Running Shoes,199,1.0,2025-02-03,Credit Card,1,,no
+ORD10622,Harish Pillai,harish.pillai@outlook.com,50892 73961, Kochi  ,Grocery,Sugar 1kg,unknown,5.0,2024-09-20,Cash on Delivery,no,,1
+ORD10955,Naveen Reddy, naveen.reddy@outlook.com ,+919410102760, Hyderabad  ,TOYS,Action Figure,1999,2.0,09-02-2025,Debit Card,yes,,
+ORD10452,Suresh Reddy,suresh.reddy@gmail.com,2508261123,MUMBAI,Grocery,Sugar 1kg,599,1.0,17/12/2025,UPI,,,
+ORD10642,Anitha Menon,anitha.menon@gmail.com,6679419087,coimbatore,Beauty,Moisturizer,unknown,1.0,05-29-2025,Credit Card,Yes,,1
+ORD10832,Harish Menon, harish.menon@yahoo.com ,12247-40985,mumbai,BOOKS,Textbook,unknown,5.0,04/09/2024,Credit Card,no,4.0,No
+ORD10935,Kavya Iyer,kavya.iyer@yahoo.com,90495-77625,Ahmedabad,GROCERY,Atta 10kg,1499,5.0,,UPI,No,5.0,no
+ORD10723,Suresh Menon, suresh.menon@gmail.com ,65266 42673,Ahmedabad,Beauty,Shampoo,499,4.0,10-13-2024,UPI,N,2.0,N
+ORD10055,Priya Gupta,priya.gupta@yahoo.com,02838-57865,bengaluru,grocery,Tea Powder 500g,1499,2.0,12-28-2024,Credit Card,N,4.0,N
+ORD10432,Pooja Reddy,pooja.reddy@outlook.com,60944-12833,Delhi,SPORTS,Running Shoes,349,5.0,15 Dec 2025,Debit Card,1,2.0,1
+ORD10098,Kavya Iyer,kavya.iyer@gmail.com,60653 07450,KOLKATA,Home & Kitchen,Non-stick Pan,₹299,5.0,2025-05-18,Net Banking,N,,Y
+ORD10322,Pooja Subramaniam,pooja.subramaniam@outlook.com,+915098898645, Pune  ,home & kitchen,Water Bottle,"4,999",1.0,12/02/2024,Net Banking,yes,3.0,no
+ORD10348,Arun Sharma,arun.sharma@gmail.com,3854457702, Hyderabad  ,SPORTS,Football,2499,4.0,,UPI,Yes,4.0,yes
+ORD10511,Priya Raj,priya.raj@rediffmail.com,7462591601,hyderabad,TOYS,Board Game,1199,500.0,04-04-2024,Credit Card,,2.0,yes
+ORD10410,Pooja Rao,pooja.rao@yahoo.com,+918656194255, Ahmedabad  ,HOME & KITCHEN,LED Bulb,349,3.0,2024-06-17,UPI,Y,4.0,no
+ORD10128,Priya Sharma,priya.sharma@gmail.com,8955439376,N/A,Books,Self-help Book,249,4.0,19 Apr 2024,Cash on Delivery,yes,2.0,no
+ORD10420,Deepa Sharma,deepa.sharma@outlook.com,+919785249141,Mumbai,Books,Comic Book,unknown,,07-12-2024,UPI,0,2.0,
+ORD10827,Lakshmi Menon,lakshmi.menon@outlook.com,2479600094,chennai,CLOTHING,Kurti,unknown,5.0,09/05/2025,Cash on Delivery,Y,5.0,yes
+ORD10366,Arun Menon,,60869 82210,Chennai,BOOKS,Textbook,1199,3.0,2024-03-08,UPI,0,1.0,1
+ORD10456,Karthik Iyer,,+913655158482, Kolkata  ,HOME & KITCHEN,Water Bottle,199,4.0,06-01-2024,Credit Card,no,1.0,no
+ORD10238,Karthik Pillai,karthik.pillai@rediffmail.com,7163234672,Pune,beauty,Sunscreen,₹799,1.0,,Credit Card,Yes,2.0,Y
+ORD20023,Priya Sharma,priya.sharma@yahoo.com,9085510740,Coimbatore,Sports,Dumbbell Set,"2,499",1.0,2024-03-26,UPI,,3.0,1
+ORD10413,Pooja Kumar,pooja.kumar@outlook.com,6071748113,Kolkata,GROCERY,Atta 10kg,149,4.0,,Credit Card,yes,4.0,
+ORD10419,Pooja Sharma,pooja.sharma@outlook.com,4358644963,DELHI,Clothing,Denim Jeans,"4,999",1.0,12-05-2025,UPI,no,5.0,
+ORD10081,Karthik Rao,karthik.rao@gmail.com,52341 38999, Ahmedabad  ,electronics,Power Bank,1199,,11-05-2025,Debit Card,,1.0,N
+ORD10535,Meena Raj,meena.raj@gmail.com,1921581897,Bengaluru,Beauty,Shampoo,149,500.0,2024-04-18,UPI,N,,
+ORD10660,Priya Gupta,priya.gupta@rediffmail.com,8580526321,Bengaluru,Home & Kitchen,Non-stick Pan,unknown,,10/04/2025,Debit Card,no,,N
+ORD10923,Sanjay Pillai,sanjay.pillai@yahoo.com,+914656531708,AHMEDABAD,Books,Cookbook,499,4.0,2024-04-03,Cash on Delivery,0,3.0,N
+ORD10508,Ritu Rao,ritu.rao@yahoo.com,,AHMEDABAD,GROCERY,Tea Powder 500g,unknown,1.0,,UPI,Yes,,no
+ORD10243,Vignesh Menon,vignesh.menon@yahoo.com,6252571509, Ahmedabad  ,Books,Cookbook,1199,2.0,26 Aug 2024,Credit Card,Yes,,N
+ORD10654,Kavya Gupta,kavya.gupta@gmail.com,+910796618695,Kochi,CLOTHING,Jacket,1499,5.0,10-19-2025,UPI,Yes,4.0,yes
+ORD20025,Lakshmi Pillai,lakshmi.pillai@rediffmail.com,53663-77805,mumbai,Toys,Action Figure,"4,999",2.0,,Debit Card,no,4.0,no
+ORD10504,Sneha Chandran,sneha.chandran@rediffmail.com,68349 60478,kolkata,BOOKS,Textbook,unknown,,07-28-2025,UPI,Y,,Y
+ORD20007,Deepa Gupta,deepa.gupta@rediffmail.com,50801 96304,MUMBAI,Grocery,Sugar 1kg,"2,499",,15/09/2025,Debit Card,,4.0,
+ORD10563,Pooja Gupta,POOJA.GUPTA@REDIFFMAIL.COM,+912028471901,bengaluru,SPORTS,Cricket Bat,199,3.0,05-15-2024,Debit Card,no,,Yes
+ORD10687,Vignesh Raj,vignesh.raj@yahoo.com,6891097797,bengaluru,CLOTHING,Cotton T-Shirt,799,1.0,11-05-2024,Debit Card,,,yes
+ORD10028,Ritu Chandran,ritu.chandran@outlook.com,47436 71369, Chennai  ,Books,Comic Book,349,3.0,,UPI,Yes,,0
+ORD10888,Harish Reddy,harish.reddy@yahoo.com,7065948053,BENGALURU,Beauty,Moisturizer,599,3.0,04-05-2025,Net Banking,Yes,5.0,N
+ORD10123,Meena Nair,meena.nair@rediffmail.com,6030299228,bengaluru,CLOTHING,Formal Shirt,349,3.0,21/09/2024,Net Banking,1,,Yes
+ORD10781,Vignesh Chandran, vignesh.chandran@gmail.com ,+919561199899,CHENNAI,Home & Kitchen,Storage Container,199,1.0,04-14-2024,Net Banking,0,1.0,yes
+ORD10910,Priya Kumar,priya.kumar@rediffmail.com,1756275280,BENGALURU,toys,Action Figure,999,5.0,,Debit Card,yes,5.0,0
+ORD10542,Suresh Chandran,suresh.chandran@outlook.com,+913430311587,N/A,BOOKS,Novel,1499,2.0,,UPI,yes,4.0,0
+ORD10653,Sneha Subramaniam, sneha.subramaniam@rediffmail.com ,5642240592,Kochi,Books,Cookbook,249,1.0,2024-08-25,Net Banking,0,3.0,1
+ORD10485,Meena Chandran,meena.chandran@yahoo.com,46202-58254,Kolkata,CLOTHING,Denim Jeans,799,5.0,26 Jun 2024,Cash on Delivery,No,,Y
+ORD10946,Lakshmi Chandran,lakshmi.chandran@outlook.com,49811-84651,Delhi,toys,Building Blocks,"1,499",4.0,02/02/2025,UPI,No,2.0,0
+ORD20013,Kavya Sharma,kavya.sharma@rediffmail.com,2790423381,Kochi,clothing,Formal Shirt,999,5.0,2025-09-22,UPI,0,2.0,Yes
+ORD10272,Meena Iyer,MEENA.IYER@GMAIL.COM,0231429001,Kolkata,toys,Building Blocks,₹349,2.0,28/03/2024,Cash on Delivery,0,2.0,Y
+ORD10325,Rahul Menon,RAHUL.MENON@YAHOO.COM,96935 78243,Bangalore,Home & Kitchen,Mixer Grinder,unknown,2.0,05 Feb 2025,Debit Card,0,1.0,yes
+ORD10385,,vignesh.chandran@gmail.com,31112-71285, Mumbai  ,Beauty,Face Wash,₹1999,4.0,,UPI,yes,5.0,yes
+ORD10278,Arun Pillai,arun.pillai@yahoo.com,, Mumbai  ,Toys,Board Game,699,5.0,2025-09-11,Debit Card,0,3.0,0
+ORD10850,Arun Nair,arun.nair@yahoo.com,97731-73946,Ahmedabad,BOOKS,Self-help Book,unknown,1.0,04/06/2024,Debit Card,,4.0,no
+ORD10883,Vignesh Nair,VIGNESH.NAIR@REDIFFMAIL.COM,5717490584, Ahmedabad  ,grocery,Sugar 1kg,1999,4.0,10-08-2024,Net Banking,Yes,5.0,
+ORD10672,Meena Kumar,meena.kumar@outlook.com,1839979849,KOLKATA,electronics,Power Bank,499,3.0,05 Feb 2024,Net Banking,no,,no
+ORD10694,Sneha Chandran,sneha.chandran@outlook.com,15749 32511,CHENNAI,Beauty,Shampoo,349,5.0,,Net Banking,no,,N
+ORD10721,Karthik Iyer,karthik.iyer@yahoo.com,87067-63532, Chennai  ,electronics,USB-C Cable,unknown,3.0,30 Dec 2024,Credit Card,Y,,1
+ORD10148,Rahul Iyer,rahul.iyer@rediffmail.com,1579812387,DELHI,ELECTRONICS,Bluetooth Speaker,699,,06-26-2025,Credit Card,1,1.0,Y
+ORD10984,Naveen Nair,naveen.nair@rediffmail.com,92500 75167,Pune,SPORTS,Dumbbell Set,299,2.0,,Debit Card,,3.0,No
+ORD10947,Arun Reddy,arun.reddy@outlook.com,,AHMEDABAD,Books,Cookbook,4999,4.0,16/04/2024,UPI,1,,N
+ORD10744,Harish Pillai,harish.pillai@rediffmail.com,2930112501,Hyderabad,Electronics,Smartwatch,150000,,08/10/2024,Net Banking,Yes,5.0,1
+ORD10052,Lakshmi Pillai,lakshmi.pillai@rediffmail.com,+915953278774,N/A,HOME & KITCHEN,Water Bottle,unknown,4.0,03/09/2024,Debit Card,Yes,1.0,Yes
+ORD10855,Kavya Nair,kavya.nair@rediffmail.com,99167-64032,Mumbai,Clothing,Denim Jeans,299,1.0,08/08/2025,Debit Card,no,2.0,Y
+ORD10361,Divya Chandran,,5874951191,KOCHI,Toys,Action Figure,2999,5.0,2025-06-09,Credit Card,0,5.0,N
+ORD10023,Divya Menon,divya.menon@gmail.com,0278742967, Chennai  ,Beauty,Lipstick,unknown,4.0,2025-11-17,UPI,no,5.0,1
+ORD10794,Lakshmi Chandran,lakshmi.chandran@rediffmail.com,46767 80964,Bangalore,home & kitchen,Water Bottle,399,1.0,10-02-2024,Debit Card,0,2.0,no
+ORD10657,Lakshmi Raj,lakshmi.raj@gmail.com,,Delhi,grocery,Cooking Oil 1L,1199,3.0,04-07-2025,Cash on Delivery,1,,no
+ORD10901,Deepa Chandran,deepa.chandran@gmail.com,83172 36670,Ahmedabad,Clothing,Kurti,799,2.0,,Cash on Delivery,N,,
+ORD10210,Suresh Subramaniam,suresh.subramaniam@rediffmail.com,+919840767899,Delhi,Grocery,Sugar 1kg,149,5.0,08 Mar 2025,Net Banking,No,1.0,yes
+ORD10319,Harish Subramaniam,harish.subramaniam@rediffmail.com,09788 75439,Bengaluru,sports,Dumbbell Set,₹199,2.0,05/01/2025,Debit Card,No,5.0,N
+ORD10143,Manoj Rao,manoj.rao@outlook.com,00490-82404,Ahmedabad,SPORTS,Dumbbell Set,₹1999,,12-07-2025,Debit Card,,4.0,
+ORD10051,Karthik Rao,karthik.rao@yahoo.com,7844736471,Chennai,home & kitchen,Mixer Grinder,unknown,5.0,07-27-2024,Credit Card,no,,no
+ORD10167,Meena Kumar,meena.kumar@gmail.com,44401 92927,Delhi,BEAUTY,Face Wash,₹2999,5.0,,Credit Card,,3.0,Yes
+ORD10904,Pooja Raj,pooja.raj@yahoo.com,87448-88392,Chennai,Sports,Yoga Mat,2999,1.0,,Net Banking,,2.0,no
+ORD10552,Karthik Raj, karthik.raj@yahoo.com ,04262-01971,ahmedabad,SPORTS,Dumbbell Set,99999,5.0,16/03/2024,Cash on Delivery,1,3.0,1
+ORD10082,Vijay Reddy,vijay.reddy@rediffmail.com,1091043006,Bangalore,electronics,Power Bank,1499,4.0,,Credit Card,No,3.0,
+ORD10373,Kavya Chandran,kavya.chandran@rediffmail.com,86091-91911,coimbatore,BEAUTY,Face Wash,149,4.0,,Cash on Delivery,Yes,4.0,no
+ORD10718,Meena Raj,meena.raj@yahoo.com,37063-25031, Kolkata  ,GROCERY,Cooking Oil 1L,349,1.0,06-28-2025,,Y,,Yes
+ORD10938,Naveen Iyer,naveen.iyer@outlook.com,9342322109,MUMBAI,CLOTHING,Cotton T-Shirt,999,1.0,21/09/2024,Debit Card,yes,,No
+ORD10067,Rahul Pillai,rahul.pillai@gmail.com,65918 03397,Bengaluru,CLOTHING,Kurti,2499,2.0,14 Oct 2024,Credit Card,Yes,4.0,Y
+ORD10854,Pooja Iyer,pooja.iyer@outlook.com,, Coimbatore  ,books,Novel,199,3.0,27 Jun 2025,Debit Card,Y,,Yes
+ORD10686,Lakshmi Subramaniam,,57052-18799,Mumbai,Grocery,Sugar 1kg,2499,1.0,2024-09-26,UPI,,3.0,
+ORD10290,Karthik Menon, karthik.menon@gmail.com ,9980284139,HYDERABAD,clothing,Kurti,1499,4.0,05/06/2024,Credit Card,No,2.0,N
+ORD10317,Arun Menon,arun.menon@outlook.com,2322903102,Delhi,ELECTRONICS,Power Bank,499,5.0,20/07/2025,Cash on Delivery,yes,3.0,yes
+ORD10813,Lakshmi Rao,lakshmi.rao@yahoo.com,2140128331,Pune,BOOKS,Self-help Book,-500,4.0,,Net Banking,Yes,3.0,N
+ORD10284,Vignesh Kumar,vignesh.kumar@outlook.com,65423-56778,BENGALURU,TOYS,Puzzle Set,unknown,1.0,10 Dec 2025,Net Banking,Yes,,
+ORD10681,Harish Reddy,harish.reddy@outlook.com,83173-06629,Kolkata,Clothing,Formal Shirt,599,2.0,03-29-2024,UPI,,,No
+ORD10568,Rahul Gupta,rahul.gupta@outlook.com,20616-58129,N/A,Home & Kitchen,Storage Container,₹499,5.0,10/06/2024,UPI,No,2.0,No
+ORD10065,Pooja Menon,pooja.menon@rediffmail.com,93785 47772,mumbai,Clothing,Denim Jeans,499,4.0,07 Jul 2024,Credit Card,Yes,3.0,
+ORD10675,Arun Chandran,arun.chandran@yahoo.com,,kochi,Sports,Dumbbell Set,699,4.0,2025-03-03,Credit Card,Y,,Yes
+ORD10265,Manoj Kumar, manoj.kumar@rediffmail.com ,2258030569,HYDERABAD,home & kitchen,Storage Container,₹699,4.0,,Net Banking,Y,5.0,
+ORD10864,Divya Subramaniam,divya.subramaniam@gmail.com,77435-40476,mumbai,Books,Cookbook,399,3.0,22 Jul 2024,Debit Card,No,,No
+ORD10565,Rahul Rao,rahul.rao@gmail.com,,bengaluru,home & kitchen,Storage Container,599,4.0,2025-09-20,Credit Card,No,2.0,0
+ORD10532,Vijay Gupta,vijay.gupta@yahoo.com,95300 67762, Mumbai  ,Toys,Building Blocks,"1,499",4.0,2024-12-22,Cash on Delivery,N,3.0,1
+ORD10021,Divya Kumar,divya.kumar@gmail.com,+911318699938,Coimbatore,Beauty,Shampoo,unknown,1.0,,Credit Card,Yes,4.0,No
+ORD10527,Naveen Reddy, naveen.reddy@rediffmail.com ,83448 83842, Hyderabad  ,BOOKS,Textbook,unknown,2.0,10-07-2025,Cash on Delivery,Y,1.0,
+ORD10800,Manoj Nair,manoj.nair@rediffmail.com,,N/A,Clothing,Denim Jeans,₹399,2.0,09-19-2025,Net Banking,N,3.0,yes
+ORD10726,Lakshmi Menon, lakshmi.menon@yahoo.com ,+912337209451, Chennai  ,grocery,Atta 10kg,299,3.0,08/02/2025,Credit Card,N,2.0,Y
+ORD10297,Naveen Chandran,naveen.chandran@rediffmail.com,1271130724,Ahmedabad,Home & Kitchen,Mixer Grinder,599,4.0,2024-09-28,Debit Card,No,,no
+ORD10468,Vijay Chandran,vijay.chandran@outlook.com,+918040561299,Delhi,Clothing,Kurti,149,2.0,,Debit Card,no,5.0,
+ORD10557,Sneha Sharma,sneha.sharma@yahoo.com,4497439464,Delhi,BEAUTY,Sunscreen,799,1.0,17 Dec 2025,Credit Card,N,4.0,Yes
+ORD10262,Anitha Raj,anitha.raj@gmail.com,06853-89097, Chennai  ,Home & Kitchen,Non-stick Pan,799,4.0,2024-06-28,Cash on Delivery,Y,,
+ORD10986,Suresh Pillai,suresh.pillai@yahoo.com,56828 75335,MUMBAI,Grocery,Tea Powder 500g,249,5.0,19 May 2024,Debit Card,,,0
+ORD10680,Harish Gupta,harish.gupta@rediffmail.com,95141-86482,N/A,HOME & KITCHEN,Water Bottle,699,1.0,12 May 2024,Credit Card,,2.0,1
+ORD10526,Manoj Subramaniam,manoj.subramaniam@rediffmail.com,9827348131, Mumbai  ,beauty,Sunscreen,4999,5.0,28 Jul 2025,UPI,Y,2.0,No
+ORD10358,Meena Nair,meena.nair@outlook.com,+915746966060, Ahmedabad  ,toys,RC Car,399,5.0,2024-10-07,UPI,N,2.0,N
+ORD10596,Karthik Gupta, karthik.gupta@outlook.com ,38109-79412,Bengaluru,ELECTRONICS,Power Bank,2499,3.0,29 Jan 2024,Credit Card,,,0
+ORD10516,Ritu Raj,ritu.raj@yahoo.com,45792 71472,Ahmedabad,Home & Kitchen,Water Bottle,4999,5.0,04 Sep 2025,Cash on Delivery,1,4.0,yes
+ORD10858,Vignesh Sharma,vignesh.sharma@rediffmail.com,57955 19247,Ahmedabad,Beauty,Moisturizer,149,3.0,22/11/2025,Cash on Delivery,0,4.0,Yes
+ORD10189,Harish Gupta, harish.gupta@outlook.com ,4955289389,Bengaluru,Electronic,Wireless Earbuds,699,3.0,25/06/2025,Cash on Delivery,yes,2.0,Y
+ORD10252,Deepa Menon,,5643471287,Hyderabad,Home & Kitchen,Non-stick Pan,₹2999,2.0,12 Aug 2025,Credit Card,no,4.0,1
+ORD10072,Naveen Reddy,naveen.reddy@rediffmail.com,68058-91135, Hyderabad  ,Clothing,Kurti,349,2.0,,Net Banking,no,1.0,1
+ORD20024,Kavya Menon,kavya.menon@outlook.com,72466 57293,delhi,Clothing,Jacket,1199,4.0,12/05/2024,Net Banking,0,3.0,No
+ORD10766,Divya Iyer,divya.iyer@yahoo.com,,Pune,GROCERY,Cooking Oil 1L,₹349,3.0,07/03/2025,Net Banking,No,,Y
+ORD10548,Arun Gupta,arun.gupta@rediffmail.com,99204-57353,pune,Home & Kitchen,Mixer Grinder,unknown,3.0,2024-12-24,Debit Card,No,2.0,Yes
+ORD10412,Vignesh Subramaniam, VIGNESH.SUBRAMANIAM@YAHOO.COM ,2114716560,KOLKATA,Electronics,Power Bank,unknown,3.0,,Debit Card,0,5.0,Yes
+ORD10396,Manoj Chandran,manoj.chandran@yahoo.com,31132 53269,Ahmedabad,Books,Self-help Book,2999,2.0,,Net Banking,no,2.0,N
+ORD10995,Ritu Rao,ritu.rao@outlook.com,4491532180,Hyderabad,Toys,Puzzle Set,799,5.0,20/05/2024,Credit Card,1,2.0,
+ORD10650,Harish Raj,harish.raj@rediffmail.com,+916623236066,Delhi,GROCERY,Atta 10kg,149,4.0,02-21-2025,Cash on Delivery,Y,2.0,no
+ORD10968,Arun Raj,,3339637902,mumbai,ELECTRONICS,Smartwatch,499,1.0,,Credit Card,No,2.0,
+ORD10453,Harish Gupta,harish.gupta@gmail.com,+917191203818,COIMBATORE,Sports,Cricket Bat,499,4.0,2024-05-18,UPI,,3.0,N
+ORD10331,Deepa Menon,deepa.menon@gmail.com,+917106728728,Bengaluru,sports,Football,₹2499,5.0,10-28-2024,Net Banking,no,,Y
+ORD10633,Vignesh Nair,vignesh.nair@rediffmail.com,85883-82567,HYDERABAD,Home & Kitchen,LED Bulb,299,,06-04-2025,Net Banking,Y,,Y
+ORD10583,Lakshmi Iyer,lakshmi.iyer@gmail.com,+917447353524,Ahmedabad,Sports,Dumbbell Set,299,3.0,2024-10-29,Net Banking,0,1.0,No
+ORD10714,Anitha Subramaniam,,29069-69045,Pune,Toys,Puzzle Set,999,3.0,2025-01-21,Cash on Delivery,1,3.0,no
+ORD10510,Deepa Gupta,deepa.gupta@rediffmail.com,45338 90623,CHENNAI,Toys,Action Figure,unknown,4.0,13/05/2024,UPI,no,4.0,yes
+ORD10843,Vijay Nair,vijay.nair@outlook.com,6313737145,KOCHI,Toys,Puzzle Set,349,5.0,22 Apr 2024,UPI,Y,3.0,1
+ORD10509,Divya Raj, divya.raj@yahoo.com ,90670-00994, Kochi  ,Grocery,Sugar 1kg,199,5.0,02-18-2024,Debit Card,1,4.0,yes
+ORD10707,Arun Iyer,arun.iyer@outlook.com,+911936785764,BENGALURU,Beauty,Face Wash,399,5.0,2024-03-22,Credit Card,0,1.0,yes
+ORD10436,Divya Menon,divya.menon@outlook.com,+910526351004, Coimbatore  ,home & kitchen,Non-stick Pan,unknown,3.0,02-11-2025,Net Banking,no,1.0,1
+ORD10545,Sanjay Pillai, sanjay.pillai@gmail.com ,+918452354268, Bengaluru  ,Books,Self-help Book,299,1.0,,Cash on Delivery,0,,N
+ORD10208,Deepa Raj, deepa.raj@gmail.com ,2601645977,AHMEDABAD,Electronics,USB-C Cable,₹1999,4.0,10/07/2024,UPI,yes,3.0,No
+ORD10990,Rahul Gupta,rahul.gupta@yahoo.com,57538 48111, Ahmedabad  ,Home & Kitchen,Non-stick Pan,299,1.0,,Cash on Delivery,Yes,5.0,No
+ORD10219,Sneha Reddy,sneha.reddy@outlook.com,9228777251, Chennai  ,books,Textbook,unknown,3.0,02-08-2025,Net Banking,0,5.0,yes
+ORD10240,Karthik Subramaniam,karthik.subramaniam@gmail.com,76563-60041,KOCHI,Books,Textbook,299,1.0,2025-04-17,Net Banking,N,4.0,0
+ORD10839,Sanjay Iyer,sanjay.iyer@gmail.com,+918719261548,mumbai,Electronics,Bluetooth Speaker,1199,3.0,05-27-2024,Net Banking,Y,,no
+ORD10356,Pooja Raj,pooja.raj@gmail.com,99704 69472,COIMBATORE,Grocery,Sugar 1kg,499,5.0,10-22-2025,Cash on Delivery,,1.0,N
+ORD10761,Divya Chandran,DIVYA.CHANDRAN@REDIFFMAIL.COM,+915689698703, Ahmedabad  ,beauty,Face Wash,"1,199",,11 Oct 2024,Cash on Delivery,N,,1
+ORD10193,Arun Kumar,arun.kumar@yahoo.com,71978-89778,Chennai,Toys,Action Figure,unknown,4.0,,Debit Card,no,5.0,yes
+ORD10281,Suresh Sharma,suresh.sharma@gmail.com,81717 52421,Ahmedabad,BEAUTY,Moisturizer,₹1999,4.0,,Credit Card,0,2.0,yes
+ORD10192,Harish Reddy,harish.reddy@gmail.com,24991 18773,Hyderabad,Home & Kitchen,Non-stick Pan,unknown,4.0,07-09-2025,Credit Card,,,
+ORD10696,Deepa Raj, deepa.raj@gmail.com ,3315423060,HYDERABAD,Grocery,Basmati Rice 5kg,1499,3.0,,Net Banking,no,,Yes
+ORD10592,Vijay Chandran, vijay.chandran@rediffmail.com ,8164416101,Hyderabad,electronics,USB-C Cable,unknown,2.0,27/11/2024,Cash on Delivery,yes,4.0,1
+ORD10409,Karthik Pillai,karthik.pillai@outlook.com,4043370096,Chennai,Toys,Building Blocks,unknown,4.0,02-18-2024,Credit Card,no,,0
+ORD10133,Manoj Reddy,manoj.reddy@outlook.com,7169472256,ahmedabad,SPORTS,Running Shoes,699,4.0,17/12/2024,Cash on Delivery,yes,5.0,yes
+ORD20029,Vijay Sharma,vijay.sharma@gmail.com,49195 38088,COIMBATORE,grocery,Sugar 1kg,unknown,5.0,15/07/2024,Cash on Delivery,Yes,2.0,0
+ORD10404,Karthik Menon,karthik.menon@outlook.com,0037003322,Kochi,Toys,Board Game,unknown,4.0,,,yes,4.0,0
+ORD10253,Vijay Chandran,vijay.chandran@yahoo.com,04098-36655,Pune,toys,RC Car,699,1.0,,,0,,no
+ORD10701,Sneha Nair,sneha.nair@yahoo.com,+916858639061, Hyderabad  ,Toys,Board Game,349,3.0,26 Apr 2025,Net Banking,,2.0,No
+ORD10791,Naveen Pillai, naveen.pillai@yahoo.com ,+915623887888,Ahmedabad,Sports,Running Shoes,unknown,1.0,14 Dec 2025,UPI,N,4.0,No
+ORD10264,Kavya Menon,kavya.menon@rediffmail.com,84177 22560,Coimbatore,Books,Comic Book,4999,4.0,07-13-2024,Debit Card,1,,1
+ORD10071,Ritu Pillai,ritu.pillai@outlook.com,9356465193,Pune,Sports,Football,"1,999",5.0,2025-07-17,Debit Card,0,4.0,N
+ORD10273,Sneha Sharma, sneha.sharma@rediffmail.com ,,Bengaluru,grocery,Cooking Oil 1L,199,3.0,20/10/2024,Credit Card,1,1.0,No
+ORD20002,Divya Rao,divya.rao@gmail.com,2883636885,Pune,CLOTHING,Formal Shirt,1999,4.0,17/10/2025,Credit Card,1,4.0,Y
+ORD10328,Manoj Pillai,,3041662411, Kolkata  ,books,Novel,199,5.0,2025-03-01,,,2.0,Y
+ORD10116,Manoj Pillai,manoj.pillai@yahoo.com,+918801336138,Pune,Clothing,Denim Jeans,799,5.0,2024-06-06,Cash on Delivery,no,4.0,Yes
+ORD10324,Divya Subramaniam,divya.subramaniam@outlook.com,8150618538,BENGALURU,Clothing,Kurti,2999,,20 May 2024,Credit Card,N,,N
+ORD10998,Sneha Menon,sneha.menon@rediffmail.com,3985238182,Kolkata,HOME & KITCHEN,LED Bulb,unknown,3.0,17/11/2025,Cash on Delivery,0,,
+ORD10733,Arun Rao, arun.rao@gmail.com ,+915278630900, Hyderabad  ,grocery,Basmati Rice 5kg,"2,499",2.0,05-24-2024,Net Banking,yes,4.0,yes
+ORD10398,Kavya Menon,kavya.menon@rediffmail.com,+910622923106, Hyderabad  ,GROCERY,Sugar 1kg,₹2499,4.0,,Net Banking,,1.0,yes
+ORD10458,Priya Raj,priya.raj@yahoo.com,81643 21269,DELHI,TOYS,Board Game,299,5.0,11-16-2025,Debit Card,Y,5.0,Yes
+ORD10887,Sanjay Rao,sanjay.rao@yahoo.com,3605962751,COIMBATORE,Grocery,Atta 10kg,unknown,5.0,12 Jun 2025,,Y,2.0,yes
+ORD10805,Pooja Rao,pooja.rao@rediffmail.com,+913673558960,Hyderabad,toys,Board Game,999,1.0,05/07/2025,UPI,No,5.0,N
+ORD10488,Divya Subramaniam,divya.subramaniam@yahoo.com,58446-17773,hyderabad,TOYS,Board Game,₹249,2.0,21 Jan 2024,Debit Card,yes,3.0,0
+ORD10926,Naveen Rao,naveen.rao@outlook.com,+918837434509, Kolkata  ,ELECTRONICS,Bluetooth Speaker,4999,1.0,,UPI,no,1.0,Yes
+ORD10587,Sneha Pillai,sneha.pillai@yahoo.com,02217-97891, Pune  ,BEAUTY,Moisturizer,2499,4.0,,UPI,0,,Yes
+ORD10915,Deepa Nair,deepa.nair@gmail.com,+910703780886,Bengaluru,Sports,Yoga Mat,1999,5.0,,Credit Card,Yes,2.0,
+ORD10636,Naveen Raj,naveen.raj@outlook.com,0762643850,kochi,clothing,Kurti,149,4.0,07-23-2024,Net Banking,0,4.0,1
+ORD10279,Manoj Chandran,manoj.chandran@gmail.com,3904383034,Bengaluru,Toys,RC Car,199,4.0,2025-05-10,Credit Card,No,3.0,yes
+ORD10340,Meena Pillai,meena.pillai@rediffmail.com,73459-57640,Coimbatore,GROCERY,Atta 10kg,299,3.0,03-12-2025,Debit Card,1,,Yes
+ORD10685,Arun Pillai,arun.pillai@yahoo.com,64970 35067,Hyderabad,Toys,Building Blocks,199,2.0,15/06/2025,Cash on Delivery,N,2.0,no
+ORD10003,Manoj Kumar, manoj.kumar@rediffmail.com ,+918496965328,AHMEDABAD,Books,Cookbook,1499,2.0,05/06/2024,Debit Card,1,,No
+ORD10230,Sanjay Rao,sanjay.rao@gmail.com,31537 79599,Chennai,home & kitchen,Storage Container,unknown,3.0,,Cash on Delivery,Yes,,0
+ORD10616,Arun Chandran,arun.chandran@yahoo.com,+916968574670,delhi,SPORTS,Dumbbell Set,4999,2.0,,Debit Card,No,2.0,N
+ORD10963,Divya Gupta,divya.gupta@gmail.com,8924464035,Pune,TOYS,Puzzle Set,unknown,4.0,01-04-2025,UPI,N,5.0,no
+ORD10783,Anitha Kumar,anitha.kumar@gmail.com,18660-47473,coimbatore,home & kitchen,Storage Container,1999,1.0,05-27-2025,Cash on Delivery,0,5.0,yes
+ORD10890,Lakshmi Pillai,LAKSHMI.PILLAI@REDIFFMAIL.COM,94699-84288,Kochi,SPORTS,Yoga Mat,4999,2.0,2025-04-04,Debit Card,Yes,3.0,N
+ORD10448,Harish Raj,harish.raj@gmail.com,8821458414,KOLKATA,GROCERY,Atta 10kg,599,3.0,05 Mar 2024,Debit Card,No,4.0,N
+ORD10200,Manoj Chandran,manoj.chandran@outlook.com,85700-27206,KOLKATA,Toys,Puzzle Set,₹249,4.0,23/04/2024,Net Banking,Y,,1
+ORD10372,Naveen Reddy,naveen.reddy@yahoo.com,+914381199537, Chennai  ,Clothing,Formal Shirt,249,3.0,10-13-2024,UPI,,1.0,no
+ORD10959,Harish Nair,harish.nair@outlook.com,,Ahmedabad,TOYS,RC Car,249,,10-03-2025,UPI,no,3.0,Y
+ORD10802,Anitha Chandran,anitha.chandran@outlook.com,16855-73952,Coimbatore,CLOTHING,Jacket,2999,3.0,01-16-2025,UPI,no,4.0,0
+ORD10066,Priya Raj,PRIYA.RAJ@REDIFFMAIL.COM,60084-84086,Hyderabad,Electronics,Power Bank,349,2.0,03/09/2024,Debit Card,yes,5.0,no
+ORD10308,Suresh Sharma, suresh.sharma@outlook.com ,5996100231, Bengaluru  ,Sports,Cricket Bat,699,3.0,25/08/2024,Net Banking,Y,4.0,1
+ORD10041,Lakshmi Reddy,lakshmi.reddy@yahoo.com,54629-14865,Bangalore,Toys,Puzzle Set,199,3.0,2025-06-23,Net Banking,1,3.0,
+ORD10882,Karthik Kumar,karthik.kumar@rediffmail.com,52694 20416,pune,Home & Kitchen,LED Bulb,2999,4.0,2024-10-25,Cash on Delivery,no,4.0,No
+ORD10994,Divya Chandran,divya.chandran@rediffmail.com,+914265201201,Chennai,beauty,Moisturizer,699,3.0,26 Sep 2025,Debit Card,yes,,1
+ORD10734,Pooja Nair,pooja.nair@outlook.com,67640-99683,Kolkata,ELECTRONICS,Power Bank,₹2499,,09-21-2025,Cash on Delivery,yes,5.0,Y
+ORD10472,Vijay Rao, vijay.rao@rediffmail.com ,,N/A,Beauty,Sunscreen,499,2.0,21 Mar 2024,UPI,1,,No
+ORD10684,Vijay Rao,vijay.rao@rediffmail.com,9051881298,Hyderabad,BOOKS,Comic Book,4999,2.0,10 Apr 2024,Net Banking,Yes,4.0,0
+ORD10982,Lakshmi Kumar,lakshmi.kumar@gmail.com,61186-80109, Hyderabad  ,Beauty,Sunscreen,149,3.0,10 Mar 2024,Credit Card,Yes,5.0,
+ORD10588,Manoj Gupta,manoj.gupta@yahoo.com,68119 39781,Hyderabad,BEAUTY,Lipstick,₹299,2.0,24 Jan 2024,Net Banking,Y,5.0,No
+ORD10274,Pooja Iyer,pooja.iyer@outlook.com,4945147541,Pune,clothing,Cotton T-Shirt,799,5.0,05-30-2024,Credit Card,0,5.0,0
+ORD10724,Pooja Sharma,pooja.sharma@outlook.com,,KOCHI,TOYS,Action Figure,"2,999",3.0,27 Feb 2025,Cash on Delivery,1,4.0,no
+ORD10927,Suresh Nair,suresh.nair@outlook.com,5603871088,MUMBAI,Electronic,Smartwatch,₹1499,2.0,,Debit Card,yes,3.0,Yes
+ORD10669,Ritu Gupta,ritu.gupta@yahoo.com,40169 33284,hyderabad,HOME & KITCHEN,Mixer Grinder,₹2499,2.0,13 Mar 2024,Cash on Delivery,Y,,Yes
+ORD10953,,naveen.reddy@rediffmail.com,5037548078,coimbatore,Sports,Cricket Bat,699,3.0,06-30-2025,Cash on Delivery,N,,Y
+ORD10178,Kavya Rao,kavya.rao@yahoo.com,+910078068671,mumbai,grocery,Tea Powder 500g,2999,500.0,,UPI,Y,4.0,no
+ORD10301,Arun Iyer,arun.iyer@rediffmail.com,87824 55696,KOLKATA,toys,RC Car,1199,2.0,12-19-2025,Debit Card,No,,1
+ORD10038,Kavya Iyer,kavya.iyer@rediffmail.com,1605297516, Chennai  ,Home & Kitchen,Water Bottle,599,3.0,,Credit Card,no,4.0,N
+ORD10354,Suresh Gupta,suresh.gupta@outlook.com,13577 90833, Coimbatore  ,SPORTS,Dumbbell Set,unknown,5.0,03 Dec 2024,Credit Card,,,
+ORD10203,Vignesh Subramaniam, vignesh.subramaniam@gmail.com ,+916528092428,pune,Toys,Board Game,unknown,5.0,20 Nov 2024,Net Banking,yes,3.0,No
+ORD10237,Anitha Pillai,anitha.pillai@rediffmail.com,86371-59741,chennai,Toys,Board Game,799,1.0,06 Dec 2025,Debit Card,Y,3.0,N
+ORD10150,Vignesh Iyer,vignesh.iyer@outlook.com,,Pune,beauty,Shampoo,unknown,5.0,,Cash on Delivery,yes,5.0,Y
+ORD10218,Meena Iyer,meena.iyer@outlook.com,11594 08215,bengaluru,Home & Kitchen,Storage Container,₹349,5.0,29/01/2024,Net Banking,1,4.0,Yes
+ORD10703,Vignesh Gupta,vignesh.gupta@rediffmail.com,7299403694,ahmedabad,Beauty,Shampoo,399,3.0,22/04/2024,Net Banking,1,,yes
+ORD10811,Priya Nair,priya.nair@outlook.com,06490-97034,COIMBATORE,Home & Kitchen,LED Bulb,999,3.0,23 Dec 2025,Credit Card,Yes,5.0,No
+ORD10572,Sneha Subramaniam,sneha.subramaniam@gmail.com,8003666020,N/A,Grocery,Basmati Rice 5kg,"2,999",4.0,07-06-2025,Cash on Delivery,1,5.0,N
+ORD10737,Karthik Menon,karthik.menon@yahoo.com,+910002086014,Kolkata,Home & Kitchen,Storage Container,₹1199,5.0,25 Jan 2024,UPI,yes,3.0,N
+ORD10936,Vignesh Kumar,,6297611662, Delhi  ,Clothing,Denim Jeans,2999,4.0,11 Nov 2024,Cash on Delivery,yes,3.0,1
+ORD10303,Lakshmi Chandran,lakshmi.chandran@yahoo.com,0753666144,Kochi,Electronics,Smartwatch,349,3.0,26 Nov 2024,Debit Card,N,1.0,yes
+ORD10889,Naveen Chandran, naveen.chandran@gmail.com ,0782878066,COIMBATORE,Home & Kitchen,Non-stick Pan,₹1999,2.0,06-06-2025,Net Banking,1,2.0,N
+ORD20003,Ritu Menon,ritu.menon@gmail.com,+919539467662,Chennai,Electronic,Power Bank,₹699,3.0,,Debit Card,no,,N
+ORD10697,Manoj Iyer, manoj.iyer@yahoo.com ,33822 22400, Kolkata  ,HOME & KITCHEN,Non-stick Pan,299,2.0,11/11/2025,Credit Card,1,1.0,Y
+ORD10958,Arun Pillai,arun.pillai@yahoo.com,57365-40449,KOCHI,Beauty,Shampoo,199,5.0,11/01/2024,Net Banking,0,5.0,
+ORD10389,Meena Sharma,meena.sharma@rediffmail.com,76755-56283,kochi,Electronic,Smartwatch,349,4.0,06 Nov 2025,Net Banking,0,2.0,
+ORD10460,Sneha Rao, sneha.rao@outlook.com ,,DELHI,electronics,Wireless Earbuds,"1,199",5.0,09/08/2024,Debit Card,no,4.0,N
+ORD10423,Anitha Menon,anitha.menon@gmail.com,2696084376,Kolkata,home & kitchen,Mixer Grinder,699,2.0,,Cash on Delivery,N,,no
+ORD10388,Anitha Kumar,anitha.kumar@rediffmail.com,96737-94577,Mumbai,Toys,Board Game,₹199,5.0,20/10/2024,Cash on Delivery,1,5.0,yes
+ORD10799,Karthik Iyer,,+910751991981,Coimbatore,toys,Action Figure,₹699,5.0,08-09-2025,UPI,yes,3.0,Y
+ORD10391,Manoj Gupta,manoj.gupta@outlook.com,97752-44182,BENGALURU,Electronics,Wireless Earbuds,249,1.0,,UPI,,2.0,0
+ORD10473,Anitha Pillai,anitha.pillai@outlook.com,+912950264801,Kolkata,BOOKS,Self-help Book,2499,5.0,07-28-2024,Debit Card,1,2.0,0
+ORD10353,Ritu Kumar,ritu.kumar@rediffmail.com,22946 43039,DELHI,home & kitchen,Water Bottle,799,3.0,04 Jun 2025,Debit Card,Y,5.0,no
+ORD10194,Manoj Kumar, manoj.kumar@outlook.com ,49114 15208, Pune  ,Electronics,Bluetooth Speaker,1199,5.0,04 Aug 2025,Credit Card,yes,4.0,Yes
+ORD10236,Lakshmi Pillai,lakshmi.pillai@rediffmail.com,53663-77805,mumbai,Toys,Action Figure,"4,999",2.0,,Debit Card,no,4.0,no
+ORD10483,Deepa Pillai,deepa.pillai@outlook.com,59655 94282,DELHI,Toys,Puzzle Set,4999,4.0,,Debit Card,Yes,2.0,Y
+ORD10866,Manoj Subramaniam, manoj.subramaniam@gmail.com ,98304 57627,COIMBATORE,BEAUTY,Moisturizer,399,3.0,2025-02-02,Net Banking,no,4.0,
+ORD10056,Rahul Rao,rahul.rao@rediffmail.com,24041-57473,Pune,beauty,Lipstick,₹799,4.0,12-13-2025,UPI,N,3.0,N
+ORD10117,Karthik Raj,karthik.raj@rediffmail.com,9190158144, Kolkata  ,electronics,Smartwatch,unknown,2.0,2025-11-07,Net Banking,,,N
+ORD10097,Karthik Pillai,karthik.pillai@yahoo.com,4511686854,mumbai,electronics,Wireless Earbuds,2499,2.0,30 Sep 2025,Credit Card,1,4.0,No
+ORD10142,Deepa Subramaniam,deepa.subramaniam@rediffmail.com,28861-95761,bengaluru,TOYS,Building Blocks,699,1.0,11/12/2024,Cash on Delivery,0,1.0,no
+ORD10725,Vijay Rao,vijay.rao@gmail.com,42129-14650, Kolkata  ,Sports,Cricket Bat,199,2.0,,Debit Card,Yes,5.0,yes
+ORD10893,Meena Rao,meena.rao@yahoo.com,70411 67881,HYDERABAD,Sports,Yoga Mat,unknown,3.0,,UPI,0,3.0,N
+ORD10566,Priya Menon,priya.menon@gmail.com,76433 87220,AHMEDABAD,Beauty,Sunscreen,349,5.0,19/01/2025,UPI,no,2.0,yes
+ORD10867,,sanjay.menon@outlook.com,,Kochi,Electronics,Smartwatch,399,2.0,12 Jun 2025,Net Banking,N,1.0,Yes
+ORD10797,Vijay Pillai,vijay.pillai@gmail.com,35866 71554,Delhi,ELECTRONICS,Power Bank,199,5.0,22/08/2025,Debit Card,Yes,2.0,1
+ORD10121,Priya Rao,priya.rao@gmail.com,+919282722992,delhi,Beauty,Sunscreen,1199,5.0,14/05/2025,Net Banking,no,5.0,N
+ORD10878,,meena.sharma@outlook.com,0612988972,KOCHI,grocery,Sugar 1kg,unknown,4.0,05/09/2025,Credit Card,Y,4.0,1
+ORD10740,Karthik Sharma,karthik.sharma@yahoo.com,,Mumbai,Beauty,Lipstick,unknown,3.0,,Credit Card,yes,1.0,Y
+ORD10063,Sneha Iyer,sneha.iyer@rediffmail.com,+912462873342, Hyderabad  ,Books,Cookbook,699,5.0,02 Mar 2025,Cash on Delivery,1,4.0,N
+ORD10787,Lakshmi Sharma,lakshmi.sharma@gmail.com,65984-55766,DELHI,Books,Novel,₹999,2.0,2024-11-06,Credit Card,Y,4.0,No
+ORD10499,Karthik Raj,karthik.raj@gmail.com,4905315204,Chennai,Electronic,USB-C Cable,2999,1.0,31 Oct 2024,UPI,1,5.0,
+ORD10454,Suresh Nair,,3231829716,DELHI,Electronics,Bluetooth Speaker,₹249,5.0,11-28-2025,Cash on Delivery,no,2.0,Yes
+ORD10758,Anitha Subramaniam,anitha.subramaniam@gmail.com,7071634850, Kolkata  ,Toys,Action Figure,₹4999,3.0,,,no,1.0,No
+ORD10415,Arun Pillai, arun.pillai@gmail.com ,9907756085, Ahmedabad  ,Home & Kitchen,Non-stick Pan,unknown,,22 Mar 2025,Debit Card,No,,No
+ORD10004,Vijay Pillai,vijay.pillai@gmail.com,82814-89325,KOCHI,GROCERY,Tea Powder 500g,149,1.0,09-05-2025,UPI,No,1.0,no
+ORD10059,Rahul Pillai,rahul.pillai@outlook.com,+915933272795,Mumbai,Books,Cookbook,unknown,0.0,11/11/2025,Credit Card,No,4.0,
+ORD10224,Manoj Chandran,MANOJ.CHANDRAN@GMAIL.COM,,Coimbatore,Beauty,Lipstick,599,3.0,,UPI,,1.0,No
+ORD10789,Divya Pillai,DIVYA.PILLAI@REDIFFMAIL.COM,47910 05932,COIMBATORE,Home & Kitchen,Water Bottle,349,1.0,2025-04-11,Net Banking,Y,2.0,Y
+ORD10102,Priya Gupta,priya.gupta@yahoo.com,75842-82417, Kolkata  ,TOYS,RC Car,149,3.0,07-06-2024,Net Banking,N,,no
+ORD10748,Deepa Reddy,deepa.reddy@rediffmail.com,4503801625,ahmedabad,Toys,RC Car,149,2.0,23/11/2025,Cash on Delivery,Yes,1.0,yes
+ORD10222,Rahul Pillai, RAHUL.PILLAI@REDIFFMAIL.COM ,+910489138249,Kochi,Clothing,Formal Shirt,599,5.0,05-25-2024,Net Banking,Y,1.0,N
+ORD10774,Vignesh Kumar,vignesh.kumar@rediffmail.com,4706170690,DELHI,ELECTRONICS,Smartwatch,349,4.0,2024-03-25,,N,,
+ORD10005,Sneha Nair,sneha.nair@outlook.com,83465-78713,kochi,electronics,USB-C Cable,249,4.0,23 Aug 2024,Debit Card,No,,Yes
+ORD10466,Priya Raj,,+914926999699,BENGALURU,Sports,Yoga Mat,199,5.0,19 Jul 2025,UPI,0,5.0,No
+ORD10053,Sneha Menon,sneha.menon@yahoo.com,78499 12165,DELHI,GROCERY,Tea Powder 500g,₹149,4.0,22 Jul 2024,Net Banking,,3.0,Yes
+ORD10018,Sanjay Subramaniam, sanjay.subramaniam@outlook.com ,+916572628498,Pune,Books,Cookbook,299,5.0,26/11/2024,Net Banking,No,,yes
+ORD10486,Vignesh Raj,vignesh.raj@yahoo.com,+918750827681,Ahmedabad,home & kitchen,Water Bottle,349,1.0,,Credit Card,no,4.0,
+ORD10772,Arun Pillai,arun.pillai@yahoo.com,86694-08654,Delhi,toys,Board Game,499,2.0,27 Jan 2025,Cash on Delivery,,5.0,no
+ORD10942,Lakshmi Subramaniam, lakshmi.subramaniam@gmail.com ,45299 64574,Delhi,Home & Kitchen,Mixer Grinder,299,1.0,,UPI,No,,no
+ORD10307,Sneha Chandran,SNEHA.CHANDRAN@GMAIL.COM,97052 77402,kolkata,Clothing,Denim Jeans,699,1.0,24 Dec 2025,Credit Card,No,3.0,Y
+ORD10690,, divya.sharma@yahoo.com ,8141344760, Bengaluru  ,SPORTS,Yoga Mat,2999,5.0,,Credit Card,Y,3.0,Y
+ORD10156,Sneha Sharma,sneha.sharma@yahoo.com,8179469548,Hyderabad,Sports,Yoga Mat,₹1999,1.0,21 Sep 2025,UPI,0,3.0,0
+ORD10865,Divya Sharma,divya.sharma@rediffmail.com,+910458809718,Kochi,HOME & KITCHEN,LED Bulb,₹4999,2.0,14/05/2024,Cash on Delivery,N,2.0,no
+ORD20008,Deepa Iyer,deepa.iyer@rediffmail.com,5220720197,Kochi,grocery,Cooking Oil 1L,299,4.0,2024-09-16,Debit Card,Y,1.0,0
+ORD10665,Manoj Subramaniam,manoj.subramaniam@outlook.com,6023515850,kolkata,Toys,Building Blocks,599,4.0,,UPI,No,5.0,1
+ORD10249,Karthik Subramaniam,karthik.subramaniam@yahoo.com,+913467912141,hyderabad,Toys,Puzzle Set,1999,3.0,22/08/2025,Net Banking,No,2.0,Yes
+ORD10250,Priya Reddy,priya.reddy@outlook.com,+913566905510,KOCHI,Electronics,Wireless Earbuds,unknown,1.0,2024-05-22,Net Banking,,4.0,yes
+ORD10359,Rahul Reddy,rahul.reddy@gmail.com,9706734996,mumbai,Sports,Football,1999,3.0,07-04-2025,Cash on Delivery,yes,5.0,No
+ORD10778,Kavya Nair,kavya.nair@yahoo.com,+911707317445, Ahmedabad  ,BEAUTY,Lipstick,unknown,3.0,27/02/2025,Debit Card,1,2.0,0
+ORD10494,Vignesh Subramaniam,vignesh.subramaniam@outlook.com,+912304120270,Coimbatore,sports,Running Shoes,2999,1.0,24 Aug 2024,Debit Card,Yes,3.0,Y
+ORD10431,Ritu Pillai,ritu.pillai@yahoo.com,30120-47137, Mumbai  ,Beauty,Sunscreen,unknown,1.0,,Cash on Delivery,no,2.0,no
+ORD10442,Naveen Pillai,,+917121988192,CHENNAI,SPORTS,Cricket Bat,199,0.0,2024-12-14,UPI,Yes,4.0,no
+ORD10930,Deepa Kumar,deepa.kumar@yahoo.com,1867170804,KOLKATA,Toys,Board Game,799,5.0,25/12/2025,Credit Card,,3.0,no
+ORD10879,Karthik Subramaniam,KARTHIK.SUBRAMANIAM@REDIFFMAIL.COM,6647951279,Coimbatore,TOYS,Building Blocks,2499,3.0,25/09/2024,Cash on Delivery,no,4.0,N
+ORD10031,Deepa Pillai,deepa.pillai@gmail.com,5064317139,pune,Home & Kitchen,Non-stick Pan,₹2999,3.0,08 May 2024,Net Banking,,4.0,N
+ORD10620,Kavya Subramaniam, kavya.subramaniam@rediffmail.com ,78370-31754,Coimbatore,SPORTS,Dumbbell Set,"2,499",1.0,2024-10-30,Credit Card,,4.0,no
+ORD10282,Naveen Chandran,naveen.chandran@outlook.com,+914090380214,ahmedabad,Home & Kitchen,Water Bottle,unknown,3.0,,Net Banking,No,3.0,no
+ORD10702,Kavya Raj, kavya.raj@rediffmail.com ,01489-67808,Coimbatore,sports,Running Shoes,₹249,5.0,30/04/2024,Credit Card,yes,2.0,1
+ORD20000,Karthik Menon,karthik.menon@rediffmail.com,82419-96264,COIMBATORE,SPORTS,Running Shoes,999,1.0,08 Dec 2024,Credit Card,0,,Yes
+ORD10118,Suresh Subramaniam,,88143-53682,Chennai,TOYS,RC Car,799,3.0,2024-07-17,Cash on Delivery,Yes,2.0,
+ORD10541,Sneha Gupta,sneha.gupta@yahoo.com,2436258542,kolkata,books,Comic Book,1999,3.0,10 Feb 2024,Net Banking,No,2.0,1
+ORD10692,Suresh Iyer, suresh.iyer@gmail.com ,52446-14409,Kolkata,BOOKS,Comic Book,₹199,2.0,,Debit Card,1,4.0,yes
+ORD10292,Ritu Raj,ritu.raj@outlook.com,6253135525,N/A,Toys,RC Car,1199,,02/12/2024,UPI,no,5.0,N
+ORD10382,Deepa Pillai,deepa.pillai@rediffmail.com,+919181589988,coimbatore,Grocery,Tea Powder 500g,249,3.0,24/11/2024,Net Banking,N,1.0,yes
+ORD10619,Harish Gupta,harish.gupta@rediffmail.com,5978155426,bengaluru,Toys,Puzzle Set,2999,3.0,,,yes,,yes
+ORD10201,Manoj Menon, MANOJ.MENON@YAHOO.COM ,+919317342069,Mumbai,grocery,Atta 10kg,399,3.0,11/01/2025,Net Banking,No,3.0,Yes
+ORD10741,Divya Rao,divya.rao@gmail.com,2883636885,Pune,CLOTHING,Formal Shirt,1999,4.0,17/10/2025,Credit Card,1,4.0,Y
+ORD10937,Deepa Gupta,deepa.gupta@rediffmail.com,2524235256,N/A,Toys,Building Blocks,₹299,4.0,19 Jun 2025,UPI,1,1.0,No
+ORD10506,Kavya Raj,kavya.raj@outlook.com,54472 41916,Mumbai,books,Textbook,"1,999",3.0,2024-10-07,UPI,1,3.0,1
+ORD10793,Karthik Gupta,karthik.gupta@rediffmail.com,+915326708488,Hyderabad,CLOTHING,Kurti,199,2.0,02-27-2025,Debit Card,Y,5.0,Y
+ORD10341,Meena Rao,meena.rao@outlook.com,,HYDERABAD,HOME & KITCHEN,Water Bottle,"4,999",5.0,23/03/2024,Credit Card,N,1.0,1
+ORD10155,Ritu Gupta,ritu.gupta@yahoo.com,4510162249,Mumbai,electronics,USB-C Cable,699,5.0,11 Apr 2025,Debit Card,Yes,2.0,No
+ORD10891,Karthik Chandran,karthik.chandran@rediffmail.com,7862685272,Hyderabad,books,Comic Book,unknown,2.0,06/09/2024,,0,,0
+ORD10579,Divya Rao,divya.rao@rediffmail.com,9530564184,Chennai,Sports,Cricket Bat,unknown,4.0,11-11-2025,Credit Card,Yes,2.0,
+ORD10755,Ritu Iyer,ritu.iyer@gmail.com,7074599153,coimbatore,Home & Kitchen,Water Bottle,₹599,1.0,2024-06-30,Net Banking,1,4.0,
+ORD10815,Naveen Menon, naveen.menon@yahoo.com ,67574 51048, Ahmedabad  ,Toys,Building Blocks,1499,3.0,,Debit Card,N,,No
+ORD10323,Divya Sharma, divya.sharma@outlook.com ,20908 83070,HYDERABAD,beauty,Face Wash,799,4.0,31 Mar 2025,UPI,0,5.0,yes
+ORD10625,Kavya Rao,,00493 32672, Bengaluru  ,Electronics,Power Bank,unknown,1.0,,Debit Card,yes,4.0,0
+ORD10745,Ritu Sharma,,7302426624,Bangalore,home & kitchen,Mixer Grinder,599,4.0,10-12-2025,Credit Card,no,4.0,0
+ORD10083,Deepa Gupta,deepa.gupta@gmail.com,30316 17990,Hyderabad,HOME & KITCHEN,Non-stick Pan,799,2.0,2024-05-02,UPI,Yes,4.0,Y
+ORD10978,Meena Raj,meena.raj@outlook.com,51657-07943,Mumbai,Clothing,Kurti,499,2.0,02/02/2024,Debit Card,1,,yes
+ORD10465,Manoj Sharma,manoj.sharma@outlook.com,4808735437, Coimbatore  ,Electronic,USB-C Cable,399,1.0,17/02/2024,Cash on Delivery,no,,No
+ORD10573,Divya Kumar,divya.kumar@yahoo.com,07686-27633,Kochi,Sports,Football,399,5.0,28 May 2025,UPI,N,5.0,N
+ORD10334,Vignesh Raj,vignesh.raj@outlook.com,6667548581,chennai,home & kitchen,Mixer Grinder,"2,999",3.0,11/10/2024,Cash on Delivery,,,0
+ORD10011,Priya Menon,priya.menon@outlook.com,8501429401, Mumbai  ,books,Textbook,1199,2.0,22 Mar 2025,UPI,No,3.0,1
+ORD10471,Sanjay Menon,sanjay.menon@rediffmail.com,+916292508177, Coimbatore  ,toys,Building Blocks,"1,199",3.0,2025-09-08,Net Banking,yes,5.0,Yes
+ORD10033,Harish Raj,harish.raj@outlook.com,,Mumbai,Clothing,Kurti,unknown,1.0,,Credit Card,0,,No
+ORD10597,Suresh Subramaniam,suresh.subramaniam@yahoo.com,90034-68616,COIMBATORE,TOYS,Board Game,1999,2.0,,Debit Card,Y,2.0,Yes
+ORD10908,Anitha Pillai,anitha.pillai@outlook.com,60030-11962,MUMBAI,beauty,Shampoo,"2,499",3.0,,UPI,0,,yes
+ORD10383,Kavya Pillai,kavya.pillai@outlook.com,0314998250,N/A,Toys,Building Blocks,₹2999,1.0,26 Dec 2024,Net Banking,1,3.0,
+ORD10628,Meena Iyer,meena.iyer@yahoo.com,3510255501,Ahmedabad,CLOTHING,Denim Jeans,599,3.0,10-17-2024,Cash on Delivery,Yes,2.0,N
+ORD10807,Deepa Iyer, deepa.iyer@gmail.com ,66911 22321,kolkata,Toys,Board Game,399,3.0,,Net Banking,No,,0
+ORD10933,Vignesh Kumar,vignesh.kumar@outlook.com,8910961968,Hyderabad,HOME & KITCHEN,LED Bulb,₹4999,,2024-06-16,Net Banking,Yes,,N
+ORD10979,Kavya Subramaniam, kavya.subramaniam@gmail.com ,53363 30575,BENGALURU,SPORTS,Yoga Mat,149,1.0,03 Jan 2024,UPI,yes,5.0,No
+ORD10379,Arun Gupta,ARUN.GUPTA@YAHOO.COM,15116-96667, Kochi  ,ELECTRONICS,USB-C Cable,299,1.0,29/12/2024,Debit Card,yes,,0
+ORD10090,Ritu Gupta,ritu.gupta@yahoo.com,65787 59856, Delhi  ,BOOKS,Textbook,₹1999,4.0,01-31-2024,Debit Card,0,4.0,
+ORD10214,Harish Pillai,,11556-26060,KOCHI,books,Textbook,1999,4.0,31 Dec 2025,Credit Card,1,4.0,1
+ORD10868,Pooja Reddy,pooja.reddy@outlook.com,3387885285,Coimbatore,Toys,Building Blocks,599,5.0,2025-10-29,Cash on Delivery,yes,2.0,N
+ORD10134,Ritu Chandran,ritu.chandran@outlook.com,2611178006,kolkata,TOYS,Action Figure,1199,5.0,24/09/2025,Debit Card,1,,yes
+ORD10347,,rahul.subramaniam@yahoo.com,5133053194,Delhi,HOME & KITCHEN,Water Bottle,199,2.0,09-01-2025,Net Banking,0,2.0,
+ORD10008,Meena Raj,meena.raj@outlook.com,3462475107,Ahmedabad,clothing,Kurti,299,5.0,06 Aug 2024,Cash on Delivery,no,1.0,No
+ORD10780,Ritu Menon,,94065 65823,Mumbai,sports,Football,₹249,4.0,,Cash on Delivery,no,5.0,Y
+ORD10321,Meena Raj,meena.raj@rediffmail.com,8341559991,Kolkata,TOYS,Board Game,₹2999,2.0,,Debit Card,1,1.0,yes
+ORD10809,Kavya Rao,kavya.rao@yahoo.com,,hyderabad,Beauty,Moisturizer,699,1.0,08/07/2025,Credit Card,Yes,1.0,N
+ORD10188,Ritu Subramaniam,ritu.subramaniam@outlook.com,+911322342321,COIMBATORE,Clothing,Kurti,249,2.0,,UPI,No,,Yes
+ORD10553,Naveen Rao, naveen.rao@yahoo.com ,07598 89786, Coimbatore  ,Grocery,Basmati Rice 5kg,4999,1.0,08 Oct 2025,Debit Card,yes,1.0,N
+ORD10305,Suresh Pillai,suresh.pillai@outlook.com,80382 87232,BENGALURU,Electronic,USB-C Cable,2499,1.0,,Cash on Delivery,N,1.0,No
+ORD10032,Sanjay Nair,,,KOCHI,BOOKS,Self-help Book,149,2.0,17/01/2024,Debit Card,Y,1.0,1
+ORD10846,Rahul Sharma,rahul.sharma@rediffmail.com,8709339136, Chennai  ,grocery,Cooking Oil 1L,"2,499",4.0,02-18-2025,UPI,1,1.0,Yes
+ORD10241,Suresh Menon,,7523083708, Kochi  ,beauty,Sunscreen,₹149,2.0,2025-09-04,Debit Card,1,1.0,N
+ORD10753,Sneha Chandran,sneha.chandran@gmail.com,57672 99115,Pune,Home & Kitchen,Mixer Grinder,1199,2.0,21/09/2024,Debit Card,,5.0,N
+ORD10175,Pooja Subramaniam,pooja.subramaniam@gmail.com,0833181958,Hyderabad,home & kitchen,Mixer Grinder,699,4.0,2024-10-10,Credit Card,Y,5.0,0
+ORD10246,Vijay Iyer,vijay.iyer@outlook.com,4674746897,Coimbatore,Grocery,Sugar 1kg,4999,4.0,07/06/2024,,,4.0,no
+ORD10057,Priya Chandran,priya.chandran@rediffmail.com,54019-38026,Hyderabad,books,Novel,299,4.0,,Cash on Delivery,yes,2.0,Yes
+ORD10777,Priya Chandran,priya.chandran@rediffmail.com,+913048527758,Bengaluru,toys,Puzzle Set,4999,1.0,01-31-2025,Credit Card,Yes,,N
+ORD10146,Sanjay Subramaniam,sanjay.subramaniam@yahoo.com,31465 91166,hyderabad,Electronic,Smartwatch,₹249,4.0,2025-11-02,Net Banking,Y,5.0,no
+ORD10091,Lakshmi Gupta,lakshmi.gupta@yahoo.com,5905992937,chennai,books,Novel,unknown,,27/02/2024,Cash on Delivery,Yes,,
+ORD10393,Divya Chandran,divya.chandran@outlook.com,, Ahmedabad  ,BOOKS,Cookbook,249,4.0,09-01-2024,Debit Card,1,3.0,no
+ORD10311,Meena Reddy,,3502385037,Bangalore,clothing,Jacket,4999,5.0,2025-12-20,Net Banking,No,3.0,1
+ORD10360,Pooja Iyer,pooja.iyer@outlook.com,+912155732573,Mumbai,CLOTHING,Kurti,349,5.0,12-21-2025,Credit Card,Yes,4.0,Y
+ORD10094,Naveen Subramaniam, naveen.subramaniam@rediffmail.com ,5411526218, Bengaluru  ,toys,Action Figure,2999,3.0,2025-12-22,Cash on Delivery,Y,,1
+ORD10717,Sanjay Kumar,sanjay.kumar@outlook.com,3158286304,chennai,toys,Action Figure,-500,2.0,05/02/2025,Debit Card,No,2.0,0
+ORD10776,Pooja Sharma,POOJA.SHARMA@GMAIL.COM,0385762648,Coimbatore,Beauty,Sunscreen,699,5.0,21 Oct 2024,Cash on Delivery,1,2.0,
+ORD10377,Kavya Iyer,kavya.iyer@yahoo.com,89218-78519,pune,Toys,Puzzle Set,1199,3.0,21/07/2025,UPI,Yes,5.0,0
+ORD10244,Arun Gupta,arun.gupta@gmail.com,75245-08640,HYDERABAD,CLOTHING,Formal Shirt,₹1999,5.0,29 Jul 2024,Net Banking,N,3.0,N
+ORD10851,Harish Pillai,harish.pillai@gmail.com,70605 58173,BENGALURU,sports,Running Shoes,349,4.0,,Credit Card,Yes,2.0,1
+ORD10088,Naveen Sharma,naveen.sharma@gmail.com,+913568044206,COIMBATORE,Toys,Board Game,1199,2.0,2025-04-18,Credit Card,Y,1.0,No
+ORD10215,Deepa Reddy,deepa.reddy@rediffmail.com,6341085628, Kolkata  ,SPORTS,Yoga Mat,699,5.0,15 Nov 2024,Debit Card,Y,5.0,Yes
+ORD20010,Deepa Raj, deepa.raj@yahoo.com ,2526022169,Coimbatore,Sports,Cricket Bat,1499,2.0,09 Oct 2024,,N,3.0,N
+ORD10174,Vignesh Pillai, vignesh.pillai@outlook.com ,82739-02196,N/A,Sports,Football,unknown,5.0,08/01/2024,Credit Card,yes,5.0,1
+ORD10426,Anitha Pillai,anitha.pillai@yahoo.com,11142-81785,ahmedabad,beauty,Moisturizer,249,1.0,01-09-2024,UPI,yes,5.0,
+ORD10801,Anitha Pillai,anitha.pillai@gmail.com,4153597710,Hyderabad,Grocery,Basmati Rice 5kg,₹999,5.0,,Cash on Delivery,yes,3.0,yes
+ORD10119,Naveen Chandran,naveen.chandran@gmail.com,9492995562,PUNE,CLOTHING,Cotton T-Shirt,699,5.0,,Debit Card,no,,Y
+ORD10120,Manoj Menon,manoj.menon@yahoo.com,,Ahmedabad,Grocery,Atta 10kg,799,1.0,2025-10-08,UPI,1,,N
+ORD10659,Vijay Chandran,vijay.chandran@yahoo.com,6230397440,Pune,Beauty,Shampoo,149,3.0,,Net Banking,,3.0,0
+ORD10001,Divya Kumar,divya.kumar@gmail.com,63794-02654,Kolkata,beauty,Sunscreen,₹349,5.0,2025-01-24,Credit Card,no,1.0,yes
+ORD10395,Divya Kumar,divya.kumar@outlook.com,7519102312,Mumbai,Home & Kitchen,Mixer Grinder,249,,03/12/2025,Credit Card,No,1.0,1
+ORD10402,Harish Rao, harish.rao@rediffmail.com ,+912768297514,mumbai,beauty,Shampoo,1999,1.0,18/10/2024,UPI,no,1.0,Yes
+ORD10405,Arun Chandran,arun.chandran@yahoo.com,,Coimbatore,Toys,Building Blocks,499,2.0,07-23-2025,UPI,Y,,N
+ORD10759,Divya Gupta,divya.gupta@gmail.com,3771886263,coimbatore,CLOTHING,Denim Jeans,1199,3.0,,Cash on Delivery,0,4.0,
+ORD10949,Vijay Raj,vijay.raj@yahoo.com,+911499010861,PUNE,Sports,Yoga Mat,₹299,2.0,21 Dec 2025,,No,1.0,no
+ORD10163,Sanjay Sharma,sanjay.sharma@gmail.com,+915701329022,Kochi,books,Novel,unknown,5.0,02/04/2025,Net Banking,no,2.0,yes
+ORD10115,Suresh Sharma, suresh.sharma@rediffmail.com ,5554398780,Hyderabad,ELECTRONICS,Power Bank,unknown,3.0,19 Oct 2025,Credit Card,N,,Yes
+ORD10151,Vignesh Raj,vignesh.raj@yahoo.com,+915267722330,mumbai,home & kitchen,Non-stick Pan,699,5.0,26/02/2025,Credit Card,N,3.0,N
+ORD10656,Harish Menon,,+916078623510,DELHI,books,Textbook,199,2.0,2025-09-14,Net Banking,Yes,3.0,
+ORD10601,Arun Chandran,arun.chandran@gmail.com,49864-78686,chennai,HOME & KITCHEN,LED Bulb,unknown,3.0,10 Jan 2024,Credit Card,yes,1.0,0
+ORD10752,Sanjay Nair,sanjay.nair@outlook.com,98226 73123,AHMEDABAD,Clothing,Formal Shirt,149,2.0,2025-06-27,Credit Card,no,4.0,No
+ORD10369,Manoj Sharma,manoj.sharma@gmail.com,7118425476,Pune,HOME & KITCHEN,LED Bulb,2999,4.0,31/05/2025,UPI,,1.0,N
+ORD10544,Vijay Gupta,vijay.gupta@outlook.com,26140-48933,Mumbai,HOME & KITCHEN,LED Bulb,1499,4.0,11-20-2024,Net Banking,Yes,,0
+ORD10478,Naveen Menon,naveen.menon@yahoo.com,8580623504, Kochi  ,Grocery,Tea Powder 500g,₹349,5.0,,Debit Card,no,,0
+ORD10533,Manoj Reddy,manoj.reddy@yahoo.com,1100906053,Ahmedabad,Home & Kitchen,Mixer Grinder,799,5.0,27 Feb 2025,Debit Card,Yes,,Y
+ORD20016,Suresh Sharma,suresh.sharma@gmail.com,81717 52421,Ahmedabad,BEAUTY,Moisturizer,₹1999,4.0,,Credit Card,0,2.0,yes
+ORD10611,Suresh Iyer,suresh.iyer@rediffmail.com,2549206441,Kolkata,BOOKS,Cookbook,499,3.0,19 Jul 2024,Debit Card,,1.0,Y
+ORD10988,Sneha Nair,sneha.nair@gmail.com,+912094803695,Mumbai,clothing,Denim Jeans,unknown,3.0,09-18-2025,Credit Card,No,1.0,1
+ORD10259,Vignesh Iyer,vignesh.iyer@gmail.com,28314-35989,DELHI,BOOKS,Cookbook,349,4.0,,,N,,No
+ORD10874,Manoj Sharma,manoj.sharma@outlook.com,7639904600, Coimbatore  ,Sports,Cricket Bat,1999,3.0,13 Feb 2025,Net Banking,Y,,1
+ORD10136,Sneha Kumar,sneha.kumar@yahoo.com,+918663266341, Coimbatore  ,electronics,Smartwatch,799,1.0,09-19-2025,UPI,,1.0,yes
+ORD10954,Ritu Raj, RITU.RAJ@OUTLOOK.COM ,3240510265,Delhi,Books,Comic Book,1499,5.0,,Net Banking,yes,2.0,1
+ORD10658,Anitha Gupta,anitha.gupta@outlook.com,0398221803,Chennai,Clothing,Cotton T-Shirt,"2,999",1.0,10/02/2024,Debit Card,,,
+ORD10593,Rahul Kumar,rahul.kumar@yahoo.com,4471893953,Mumbai,Sports,Yoga Mat,499,500.0,,UPI,Yes,2.0,Y
+ORD10823,Vijay Chandran,vijay.chandran@yahoo.com,7238368060,Kolkata,GROCERY,Atta 10kg,₹399,2.0,31/08/2025,Net Banking,1,5.0,0
+ORD10502,Deepa Rao,deepa.rao@yahoo.com,+917082004806,Hyderabad,Beauty,Face Wash,1499,3.0,03/07/2024,Net Banking,No,3.0,yes
+ORD10539,Naveen Sharma,naveen.sharma@gmail.com,2983104384,Hyderabad,Toys,Board Game,unknown,1.0,2025-08-04,Credit Card,N,4.0,No
+ORD10677,Kavya Pillai, kavya.pillai@gmail.com ,8686083570,Delhi,SPORTS,Football,299,3.0,16 Feb 2024,Cash on Delivery,yes,5.0,Y
+ORD10582,Karthik Iyer,karthik.iyer@gmail.com,27726 48839, Mumbai  ,BEAUTY,Lipstick,499,5.0,07-21-2025,Debit Card,yes,,Y
+ORD10344,Vijay Chandran,vijay.chandran@outlook.com,5126861205,Delhi,Grocery,Sugar 1kg,1499,1.0,,Cash on Delivery,yes,,Yes
+ORD10700,Pooja Pillai,pooja.pillai@rediffmail.com,+917466535389,BENGALURU,HOME & KITCHEN,Mixer Grinder,4999,4.0,13 Aug 2025,Net Banking,N,,Y
+ORD10645,Karthik Chandran,karthik.chandran@gmail.com,05498 24388, Ahmedabad  ,BOOKS,Cookbook,149,3.0,15/12/2025,Net Banking,No,1.0,0
+ORD10294,Sanjay Pillai,,80501 71644,COIMBATORE,Books,Cookbook,unknown,5.0,,Debit Card,1,,yes
+ORD10365,Kavya Chandran, kavya.chandran@gmail.com ,00934-59626,DELHI,beauty,Face Wash,1499,1.0,15/11/2025,Credit Card,No,2.0,Y
+ORD10651,Sanjay Reddy,sanjay.reddy@rediffmail.com,99623-56999,kolkata,grocery,Cooking Oil 1L,199,2.0,15/07/2025,Debit Card,,4.0,0
+ORD10015,Deepa Raj,deepa.raj@rediffmail.com,0967054668,KOLKATA,home & kitchen,Mixer Grinder,"1,499",2.0,,Cash on Delivery,1,4.0,no
+ORD10087,Priya Iyer, priya.iyer@rediffmail.com ,23445-65574, Pune  ,Beauty,Face Wash,599,5.0,2025-08-21,Credit Card,Y,5.0,0
+ORD10371,Karthik Reddy,karthik.reddy@rediffmail.com,34261 92372,coimbatore,beauty,Moisturizer,249,4.0,06-17-2025,Debit Card,0,4.0,N
+ORD10166,Priya Kumar,priya.kumar@gmail.com,+911894905807,KOCHI,GROCERY,Basmati Rice 5kg,unknown,1.0,,Net Banking,yes,5.0,yes
+ORD10909,Suresh Subramaniam,suresh.subramaniam@yahoo.com,1650811364,Chennai,Clothing,Formal Shirt,1499,2.0,07-29-2025,UPI,0,,0
+ORD10336,Vijay Kumar, VIJAY.KUMAR@GMAIL.COM ,2221610705, Coimbatore  ,BEAUTY,Face Wash,₹149,4.0,17 Jul 2024,Debit Card,no,4.0,no
+ORD10060,Naveen Rao, naveen.rao@rediffmail.com ,1870728679,Mumbai,Sports,Running Shoes,299,5.0,,Cash on Delivery,Yes,2.0,N
+ORD10355,Deepa Raj,deepa.raj@outlook.com,+911284033399,hyderabad,Electronic,USB-C Cable,4999,3.0,02-22-2024,Debit Card,No,,N
+ORD10425,Pooja Iyer, pooja.iyer@yahoo.com ,,KOLKATA,home & kitchen,Water Bottle,₹4999,2.0,27/10/2024,Credit Card,yes,,Y
+ORD10293,Deepa Raj,deepa.raj@outlook.com,,Ahmedabad,TOYS,Board Game,499,1.0,2025-03-07,Cash on Delivery,Y,,no
+ORD10042,Lakshmi Kumar,lakshmi.kumar@gmail.com,96222 92706,hyderabad,SPORTS,Cricket Bat,499,4.0,09-17-2025,Credit Card,0,3.0,N
+ORD10330,Anitha Menon, anitha.menon@yahoo.com ,8930746452,Bengaluru,Sports,Running Shoes,299,3.0,01-06-2024,Cash on Delivery,,2.0,0
+ORD10615,Suresh Menon, suresh.menon@yahoo.com ,96477-18375,Kochi,electronics,Power Bank,unknown,1.0,2024-04-18,Credit Card,yes,,
+ORD10430,Deepa Reddy, deepa.reddy@outlook.com ,+917768089812,KOLKATA,Electronics,USB-C Cable,499,3.0,10-12-2025,Cash on Delivery,N,4.0,No
+ORD10080,Rahul Raj,rahul.raj@yahoo.com,+917005162713,delhi,SPORTS,Yoga Mat,1199,2.0,01-11-2025,Net Banking,Y,,Y
+ORD10029,Sneha Nair,sneha.nair@gmail.com,32858 84247,CHENNAI,sports,Cricket Bat,₹699,2.0,2025-04-24,Net Banking,N,1.0,1
+ORD10255,Manoj Pillai,manoj.pillai@gmail.com,2927742333,Mumbai,GROCERY,Sugar 1kg,1499,3.0,,Net Banking,1,1.0,Y
+ORD10991,Kavya Reddy,kavya.reddy@yahoo.com,22394 07173, Delhi  ,Home & Kitchen,Mixer Grinder,unknown,3.0,04 Mar 2024,Debit Card,yes,1.0,0
+ORD10459,Anitha Pillai,anitha.pillai@rediffmail.com,40263-55824,Delhi,HOME & KITCHEN,Water Bottle,1999,,,Net Banking,1,,yes
+ORD10384,Harish Iyer, harish.iyer@gmail.com ,1403526356,Pune,Sports,Cricket Bat,299,2.0,11-15-2025,Debit Card,1,4.0,yes
+ORD10314,Naveen Subramaniam,naveen.subramaniam@rediffmail.com,3283483152,DELHI,BEAUTY,Moisturizer,799,2.0,2025-04-09,,Yes,5.0,yes
+ORD10085,Sanjay Chandran,sanjay.chandran@gmail.com,6353654195,COIMBATORE,clothing,Jacket,149,1.0,2025-06-12,Net Banking,No,2.0,0
+ORD10575,Vijay Raj,vijay.raj@gmail.com,9698384572,Bangalore,Electronic,Smartwatch,99999,3.0,,Debit Card,1,4.0,
+ORD10137,Kavya Nair,kavya.nair@gmail.com,70312 07356,Delhi,clothing,Formal Shirt,unknown,4.0,2025-04-19,Net Banking,Y,2.0,Yes
+ORD10112,Kavya Gupta,kavya.gupta@yahoo.com,72269-84858,Ahmedabad,grocery,Tea Powder 500g,399,2.0,12-04-2025,UPI,Y,5.0,Y
+ORD10195,Pooja Gupta,pooja.gupta@outlook.com,+913718344049,bengaluru,ELECTRONICS,Power Bank,1499,1.0,04 Apr 2024,UPI,no,4.0,yes
+ORD10179,Sneha Nair,sneha.nair@rediffmail.com,0165804649,Ahmedabad,Clothing,Kurti,799,4.0,23 Mar 2024,Net Banking,Yes,4.0,
+ORD10913,Harish Menon,harish.menon@rediffmail.com,+919830975424,Kolkata,ELECTRONICS,Wireless Earbuds,149,5.0,17 Nov 2025,Credit Card,no,3.0,Y
+ORD10497,Divya Iyer, DIVYA.IYER@OUTLOOK.COM ,5847436213,N/A,Electronics,Smartwatch,unknown,2.0,28 Jun 2025,Credit Card,0,2.0,1
+ORD10130,Lakshmi Nair,lakshmi.nair@outlook.com,7908075957,delhi,beauty,Sunscreen,unknown,2.0,06-07-2025,Debit Card,Y,2.0,Yes
+ORD10338,Karthik Iyer,karthik.iyer@gmail.com,+919563343244,MUMBAI,Sports,Cricket Bat,unknown,3.0,01-07-2025,Debit Card,,,0
+ORD10609,Meena Iyer,meena.iyer@yahoo.com,43586-17682,BENGALURU,Grocery,Cooking Oil 1L,799,1.0,,Debit Card,Y,1.0,1
+ORD10125,Deepa Rao,deepa.rao@rediffmail.com,6599162473,Kolkata,Clothing,Kurti,349,5.0,2024-07-12,Net Banking,Yes,3.0,
+ORD10989,Deepa Pillai, deepa.pillai@gmail.com ,,delhi,Grocery,Tea Powder 500g,unknown,4.0,,Cash on Delivery,N,,no
+ORD10227,,divya.chandran@gmail.com,3613325411,Kolkata,Grocery,Atta 10kg,4999,2.0,10-03-2025,Net Banking,N,3.0,No
+ORD10269,Lakshmi Sharma, lakshmi.sharma@outlook.com ,3678812786,Kochi,Grocery,Sugar 1kg,unknown,5.0,30/07/2024,,N,5.0,Yes
+ORD20005,Ritu Reddy,,3940598026, Kolkata  ,ELECTRONICS,Smartwatch,199,3.0,2024-05-30,UPI,No,5.0,no
+ORD10585,Deepa Menon,deepa.menon@outlook.com,80189 15673, Bengaluru  ,Books,Cookbook,unknown,1.0,,UPI,Y,4.0,1
+ORD10104,Priya Kumar,PRIYA.KUMAR@REDIFFMAIL.COM,50583 00335,bengaluru,GROCERY,Cooking Oil 1L,unknown,2.0,09/11/2024,Cash on Delivery,Yes,4.0,yes
+ORD10594,Meena Rao, meena.rao@rediffmail.com ,68811-64034,MUMBAI,Beauty,Lipstick,999,3.0,,Cash on Delivery,0,,0
+ORD10880,,lakshmi.chandran@gmail.com,+916715207710,Ahmedabad,Beauty,Shampoo,149,5.0,,UPI,no,5.0,0
+ORD10902,Sanjay Raj,sanjay.raj@outlook.com,14876-50775,mumbai,Clothing,Denim Jeans,199,1.0,2024-08-19,Credit Card,N,,No
+ORD10228,Pooja Nair,pooja.nair@gmail.com,1207049611, Ahmedabad  ,Sports,Football,₹4999,1.0,2025-02-15,Credit Card,1,,N
+ORD10911,Sanjay Chandran,sanjay.chandran@rediffmail.com,00170 78129,Mumbai,BEAUTY,Moisturizer,₹399,1.0,17/03/2024,Debit Card,yes,,yes
+ORD10302,Naveen Gupta,naveen.gupta@rediffmail.com,,Hyderabad,SPORTS,Yoga Mat,₹149,2.0,2024-05-06,UPI,Yes,5.0,1
+ORD10276,Anitha Sharma,anitha.sharma@yahoo.com,+916333021260,CHENNAI,electronics,Wireless Earbuds,1199,2.0,2025-08-18,UPI,Y,,Yes
+ORD10127,Divya Nair, DIVYA.NAIR@OUTLOOK.COM ,69849-02770, Hyderabad  ,TOYS,Board Game,199,1.0,04 Feb 2024,Cash on Delivery,N,4.0,Y
+ORD10406,Ritu Reddy,ritu.reddy@gmail.com,33943-94570,Coimbatore,sports,Football,₹699,3.0,01-25-2024,,Y,,no
+ORD10917,Priya Nair,priya.nair@rediffmail.com,+915733090740,Kolkata,BEAUTY,Sunscreen,349,4.0,17/12/2024,Debit Card,yes,1.0,0
+ORD10037,Sanjay Gupta,sanjay.gupta@yahoo.com,4978403690, Delhi  ,Clothing,Formal Shirt,399,1.0,09-18-2024,Net Banking,Yes,4.0,0
+ORD10140,Suresh Reddy, suresh.reddy@yahoo.com ,48570 86209,Hyderabad,Electronic,Power Bank,799,4.0,05 Mar 2024,UPI,N,3.0,
+ORD10304,Suresh Pillai,suresh.pillai@outlook.com,67080-61294, Kolkata  ,BOOKS,Cookbook,₹249,4.0,10 Jul 2025,Credit Card,Yes,2.0,1
+ORD10268,Suresh Sharma, suresh.sharma@gmail.com ,33711-89547,Mumbai,SPORTS,Running Shoes,"4,999",2.0,,Net Banking,yes,1.0,
+ORD10534,Divya Raj,divya.raj@rediffmail.com,+912996426033,DELHI,Toys,Action Figure,599,5.0,11/12/2025,Net Banking,no,3.0,
+ORD10546,Meena Chandran,meena.chandran@yahoo.com,0527810558,Hyderabad,Electronic,Smartwatch,349,4.0,29/11/2025,Net Banking,No,4.0,yes
+ORD10213,Ritu Gupta,ritu.gupta@gmail.com,13760-37548,pune,Clothing,Jacket,₹299,1.0,02-28-2025,UPI,N,,Y
+ORD10469,Suresh Pillai,suresh.pillai@yahoo.com,51434 68239,bengaluru,Beauty,Moisturizer,₹1499,3.0,2024-02-11,Credit Card,Y,5.0,0
+ORD10199,Manoj Rao,manoj.rao@gmail.com,+918645183760,PUNE,Toys,RC Car,₹699,2.0,08-29-2024,Credit Card,Y,,0
+ORD10673,Arun Reddy,arun.reddy@gmail.com,+914853400127,Mumbai,books,Textbook,"1,999",2.0,16 Jul 2024,UPI,yes,4.0,0
+ORD10528,Priya Sharma,priya.sharma@yahoo.com,9085510740,Coimbatore,Sports,Dumbbell Set,"2,499",1.0,2024-03-26,UPI,,3.0,1
+ORD10676,Divya Pillai,divya.pillai@outlook.com,+912476400068, Pune  ,SPORTS,Football,unknown,4.0,05-15-2024,Cash on Delivery,no,4.0,No
+ORD10819,Arun Pillai, arun.pillai@gmail.com ,+910064488548,Coimbatore,beauty,Face Wash,₹1499,2.0,29 Apr 2024,Net Banking,,3.0,Yes
+ORD10242,Anitha Sharma,ANITHA.SHARMA@YAHOO.COM,55839-38661,Mumbai,books,Novel,₹149,1.0,,Debit Card,Yes,1.0,1
+ORD10343,Manoj Rao,manoj.rao@yahoo.com,04622 68171, Delhi  ,Electronic,Wireless Earbuds,599,2.0,2025-02-18,Credit Card,Y,3.0,
+ORD10550,Suresh Iyer,suresh.iyer@gmail.com,5350637311,ahmedabad,Home & Kitchen,Non-stick Pan,unknown,2.0,05-18-2025,Debit Card,N,2.0,Yes
+ORD10387,Rahul Iyer, rahul.iyer@rediffmail.com ,9848228501,Kochi,Sports,Cricket Bat,199,,06-22-2024,Debit Card,Y,2.0,No
+ORD10886,Sneha Menon,sneha.menon@rediffmail.com,61727-58045, Mumbai  ,BEAUTY,Shampoo,799,3.0,14 Mar 2025,Credit Card,,4.0,0
+ORD10207,Harish Nair,harish.nair@gmail.com,27881 47617,KOLKATA,Grocery,Sugar 1kg,"2,999",5.0,03/11/2024,Cash on Delivery,yes,2.0,Yes
+ORD10296,Manoj Iyer,manoj.iyer@outlook.com,+913311703037,COIMBATORE,Toys,Building Blocks,4999,5.0,27 Aug 2025,UPI,no,,yes
+ORD10796,Lakshmi Chandran, lakshmi.chandran@yahoo.com ,0159722422,Chennai,TOYS,Building Blocks,1499,5.0,08-08-2024,Cash on Delivery,Y,2.0,0
+ORD10074,Divya Kumar,divya.kumar@yahoo.com,, Kochi  ,Sports,Cricket Bat,599,5.0,,,N,2.0,N
+ORD10771,Vijay Sharma,vijay.sharma@yahoo.com,8619411839, Kolkata  ,beauty,Moisturizer,399,2.0,08/11/2024,Net Banking,Y,5.0,yes
+ORD10105,Sneha Menon,SNEHA.MENON@YAHOO.COM,1506489090,mumbai,Sports,Cricket Bat,999,4.0,,Net Banking,No,1.0,
+ORD10713,Sneha Raj,sneha.raj@gmail.com,+919306357803, Kochi  ,sports,Running Shoes,299,3.0,09/04/2024,Net Banking,0,3.0,yes
+ORD10735,Vijay Chandran,vijay.chandran@gmail.com,3601579115,Bangalore,sports,Dumbbell Set,499,2.0,10/02/2025,Credit Card,Yes,,
+ORD10993,Manoj Reddy,manoj.reddy@gmail.com,5817915782,chennai,clothing,Formal Shirt,₹499,3.0,07 Nov 2024,Cash on Delivery,No,3.0,No
+ORD10017,Anitha Iyer,anitha.iyer@yahoo.com,,Hyderabad,Grocery,Tea Powder 500g,499,3.0,,Cash on Delivery,N,,No
+ORD10440,Arun Raj,arun.raj@outlook.com,12103 14217,kolkata,HOME & KITCHEN,Mixer Grinder,799,4.0,,Debit Card,yes,3.0,No
+ORD10092,Pooja Kumar,pooja.kumar@outlook.com,69154 52267,Hyderabad,sports,Cricket Bat,999,3.0,09-20-2025,Debit Card,Y,,1
+ORD10089,Arun Kumar, arun.kumar@yahoo.com ,+911070296670,Delhi,books,Self-help Book,"1,499",1.0,07-10-2024,Credit Card,Y,1.0,Yes
+ORD10451,Karthik Reddy,karthik.reddy@yahoo.com,55782-01904,coimbatore,Books,Textbook,699,1.0,16/02/2024,Net Banking,N,3.0,N
+ORD10103,Anitha Subramaniam,anitha.subramaniam@gmail.com,6846022356, Bengaluru  ,Beauty,Lipstick,unknown,3.0,2024-07-03,Credit Card,Y,,no
+ORD10239,Naveen Raj,naveen.raj@outlook.com,9263296762,Ahmedabad,toys,Board Game,999,4.0,02/09/2024,Credit Card,,3.0,yes
+ORD10747,Kavya Menon,kavya.menon@outlook.com,9834436958, Coimbatore  ,Books,Textbook,799,2.0,2024-11-22,UPI,Yes,5.0,Y
+ORD10247,Pooja Pillai,pooja.pillai@outlook.com,7506633705,Chennai,Toys,Puzzle Set,1499,5.0,,Net Banking,Y,5.0,yes
+ORD10884,Priya Nair,priya.nair@yahoo.com,2791111085,DELHI,Sports,Cricket Bat,₹799,3.0,10 Mar 2025,Credit Card,no,5.0,N
+ORD10158,Pooja Kumar,POOJA.KUMAR@OUTLOOK.COM,5512405682, Coimbatore  ,Home & Kitchen,Mixer Grinder,"2,499",5.0,11-11-2024,Credit Card,yes,,1
+ORD10480,Meena Rao, meena.rao@outlook.com ,1865507846,ahmedabad,Sports,Cricket Bat,999,5.0,05-14-2025,Debit Card,N,3.0,Yes
+ORD10646,Deepa Raj, deepa.raj@gmail.com ,+919281503701,delhi,Toys,Board Game,149,4.0,02-26-2025,Credit Card,Yes,3.0,N
+ORD10872,Anitha Sharma,anitha.sharma@outlook.com,9355557020,mumbai,Sports,Football,unknown,5.0,,Debit Card,yes,2.0,no
+ORD10871,Naveen Menon,naveen.menon@outlook.com,9995285023,kochi,Toys,RC Car,999,1.0,,Net Banking,Y,5.0,0
+ORD10019,Naveen Nair,naveen.nair@outlook.com,36783 77701,MUMBAI,Grocery,Atta 10kg,149,3.0,10 Nov 2025,UPI,,3.0,
+ORD10730,Pooja Menon,pooja.menon@yahoo.com,+915866861199, Bengaluru  ,Beauty,Face Wash,unknown,4.0,16 Aug 2025,Cash on Delivery,N,5.0,Y
+ORD10122,Priya Chandran,priya.chandran@outlook.com,65918 46386,Pune,BOOKS,Textbook,₹2999,1.0,08 May 2025,,Y,,0
+ORD10862,Suresh Nair,suresh.nair@gmail.com,8091663166,HYDERABAD,Sports,Cricket Bat,4999,2.0,11-23-2025,,N,4.0,Yes
+ORD10729,Rahul Chandran,rahul.chandran@yahoo.com,3747558030,Kolkata,Clothing,Denim Jeans,199,1.0,06-12-2025,UPI,0,1.0,No
+ORD10275,Karthik Raj,karthik.raj@rediffmail.com,36687-88788,KOLKATA,TOYS,RC Car,249,2.0,23 Jun 2025,UPI,N,4.0,No
+ORD10434,Divya Raj,divya.raj@outlook.com,9102451091,Hyderabad,Clothing,Formal Shirt,"1,999",1.0,,Credit Card,yes,4.0,
+ORD10925,Sneha Reddy,sneha.reddy@gmail.com,+914581045734,Delhi,grocery,Sugar 1kg,4999,3.0,,Net Banking,N,4.0,
+ORD10312,Ritu Subramaniam, ritu.subramaniam@yahoo.com ,38960-87066,kochi,Clothing,Formal Shirt,unknown,1.0,,UPI,no,4.0,no
+ORD10784,Sneha Iyer,sneha.iyer@gmail.com,66477 41313,hyderabad,electronics,Smartwatch,699,1.0,05-24-2024,Cash on Delivery,N,4.0,yes
+ORD10861,Ritu Subramaniam,,+911081948422,PUNE,toys,Action Figure,999,5.0,14/01/2024,UPI,0,1.0,Y
+ORD10547,Meena Sharma,meena.sharma@gmail.com,,Ahmedabad,grocery,Basmati Rice 5kg,unknown,3.0,25/12/2024,Debit Card,1,,Y
+ORD10182,Manoj Menon, manoj.menon@gmail.com ,9284222231,delhi,Grocery,Atta 10kg,349,3.0,09-23-2024,Net Banking,,3.0,Yes
+ORD10185,,suresh.gupta@outlook.com,23264 87049,Bangalore,clothing,Formal Shirt,799,5.0,2024-01-28,Net Banking,yes,1.0,0
+ORD10407,Vignesh Menon, vignesh.menon@yahoo.com ,,Coimbatore,TOYS,Action Figure,1499,2.0,2024-10-07,Cash on Delivery,1,3.0,Y
+ORD10720,Anitha Kumar,anitha.kumar@outlook.com,+910194539117, Coimbatore  ,BEAUTY,Sunscreen,unknown,1.0,2024-12-14,Cash on Delivery,0,,1
+ORD10607,Lakshmi Chandran,lakshmi.chandran@yahoo.com,6125590461,Coimbatore,Books,Cookbook,399,2.0,02-26-2024,Credit Card,Yes,3.0,Yes
+ORD10693,Suresh Pillai,suresh.pillai@rediffmail.com,2277641490,Bangalore,Electronics,USB-C Cable,1499,2.0,07-02-2024,Cash on Delivery,N,,yes
+ORD10521,Deepa Rao,DEEPA.RAO@REDIFFMAIL.COM,20126-57898,Pune,Clothing,Jacket,₹2999,1.0,2025-07-20,Net Banking,no,2.0,Y
+ORD10381,Meena Nair,meena.nair@yahoo.com,9081441529,Hyderabad,grocery,Tea Powder 500g,499,1.0,09/09/2025,UPI,no,5.0,0
+ORD10411,Deepa Chandran,,+912357155868,Kochi,home & kitchen,Mixer Grinder,₹1499,4.0,2025-12-05,Credit Card,0,5.0,Y
+ORD10635,Sneha Gupta,sneha.gupta@gmail.com,1740039101, Kolkata  ,Home & Kitchen,Non-stick Pan,₹1999,4.0,05 Jul 2025,Credit Card,Y,3.0,yes
+ORD10370,Suresh Chandran,suresh.chandran@yahoo.com,93289 63406,Kochi,Books,Self-help Book,1199,2.0,,Credit Card,yes,,Yes
+ORD10929,Vijay Kumar, vijay.kumar@gmail.com ,,chennai,clothing,Jacket,₹999,1.0,2025-04-21,Cash on Delivery,No,3.0,no
+ORD10859,Vignesh Subramaniam,VIGNESH.SUBRAMANIAM@YAHOO.COM,,Bengaluru,toys,Puzzle Set,unknown,4.0,02 Feb 2024,Debit Card,Y,3.0,yes
+ORD10779,Deepa Sharma,deepa.sharma@outlook.com,4037676874,delhi,Electronic,Power Bank,699,,,UPI,No,,yes
+ORD10079,Naveen Menon,naveen.menon@outlook.com,+919750017012, Kochi  ,Sports,Yoga Mat,unknown,3.0,06/12/2025,Debit Card,yes,4.0,Y
+ORD10574,Pooja Pillai,pooja.pillai@yahoo.com,3921883527,Kolkata,CLOTHING,Cotton T-Shirt,1499,4.0,2024-11-29,UPI,0,,0
+ORD10638,Kavya Raj, kavya.raj@yahoo.com ,+917444172345, Bengaluru  ,GROCERY,Atta 10kg,299,4.0,02 Feb 2025,Cash on Delivery,Yes,5.0,Y
+ORD10608,Karthik Iyer,karthik.iyer@outlook.com,,Hyderabad,books,Textbook,unknown,2.0,08-17-2024,Net Banking,Yes,1.0,yes
+ORD10849,Priya Menon,priya.menon@outlook.com,5967433384,CHENNAI,Clothing,Cotton T-Shirt,2499,4.0,18/01/2025,Cash on Delivery,No,1.0,0
+ORD20021,Pooja Subramaniam,pooja.subramaniam@gmail.com,0833181958,Hyderabad,home & kitchen,Mixer Grinder,699,4.0,2024-10-10,Credit Card,Y,5.0,0
+ORD10857,Ritu Subramaniam,ritu.subramaniam@yahoo.com,+910259120463,Pune,ELECTRONICS,USB-C Cable,unknown,3.0,,Credit Card,N,,Y
+ORD10952,Lakshmi Rao,lakshmi.rao@yahoo.com,59645 87669,KOLKATA,Toys,Board Game,799,2.0,2025-03-29,UPI,N,4.0,yes
+ORD10417,Rahul Gupta, rahul.gupta@gmail.com ,17819 23653, Mumbai  ,ELECTRONICS,Bluetooth Speaker,unknown,4.0,,,no,4.0,1
+ORD10768,Deepa Subramaniam,deepa.subramaniam@yahoo.com,70721 73402, Bengaluru  ,Home & Kitchen,Storage Container,"2,999",2.0,2024-10-03,Net Banking,,5.0,N
+ORD10562,Vijay Sharma,vijay.sharma@rediffmail.com,0303346771,Hyderabad,Home & Kitchen,LED Bulb,unknown,2.0,2025-01-08,Debit Card,1,1.0,Y
+ORD10068,Manoj Kumar,manoj.kumar@gmail.com,,Kolkata,books,Textbook,249,5.0,20 Sep 2025,UPI,no,4.0,Yes
+ORD10537,Meena Subramaniam, meena.subramaniam@outlook.com ,3281165993,kochi,grocery,Basmati Rice 5kg,199,2.0,14/01/2024,Debit Card,N,2.0,Yes
+ORD10078,Priya Gupta,priya.gupta@gmail.com,+912325367294,Delhi,SPORTS,Running Shoes,399,3.0,,Credit Card,yes,2.0,no
+ORD10106,Rahul Menon,rahul.menon@gmail.com,17393 48356,Delhi,home & kitchen,Non-stick Pan,799,1.0,,Cash on Delivery,Yes,,Yes
+ORD10245,Ritu Pillai,ritu.pillai@yahoo.com,4233629344,Mumbai,sports,Dumbbell Set,149,4.0,2025-05-07,Debit Card,no,2.0,1
+ORD10806,Anitha Sharma,anitha.sharma@yahoo.com,5796714803,COIMBATORE,clothing,Jacket,unknown,2.0,08-21-2024,Debit Card,1,4.0,no
+ORD10639,Lakshmi Reddy,lakshmi.reddy@gmail.com,,coimbatore,sports,Dumbbell Set,349,5.0,10-02-2025,Debit Card,yes,5.0,Y
+ORD10560,Sanjay Gupta, sanjay.gupta@outlook.com ,36220-33474, Pune  ,Books,Cookbook,"1,199",2.0,01-20-2024,Net Banking,0,2.0,1
+ORD10786,Sanjay Raj,sanjay.raj@outlook.com,09121 85273,Hyderabad,Electronics,Bluetooth Speaker,249,4.0,2025-02-15,Debit Card,No,3.0,no
+ORD10691,Deepa Pillai, deepa.pillai@yahoo.com ,77196-66610,Pune,beauty,Sunscreen,149,4.0,09-03-2024,Cash on Delivery,Yes,,Y
+ORD10895,Kavya Reddy,KAVYA.REDDY@YAHOO.COM,8716283356,Chennai,Electronic,Power Bank,₹149,5.0,2025-07-15,Debit Card,Yes,,No
+ORD10967,Sneha Subramaniam,sneha.subramaniam@outlook.com,7933686093, Bengaluru  ,Clothing,Jacket,unknown,,12 Aug 2025,Credit Card,,3.0,no
+ORD10897,Suresh Gupta,suresh.gupta@yahoo.com,0788216511,kochi,Clothing,Cotton T-Shirt,799,3.0,,Cash on Delivery,yes,3.0,no
+ORD10736,Priya Iyer,priya.iyer@yahoo.com,1496791463, Ahmedabad  ,TOYS,Board Game,499,4.0,17/10/2024,Cash on Delivery,Yes,,N
+ORD10972,Harish Pillai,harish.pillai@outlook.com,57868-00551,DELHI,GROCERY,Tea Powder 500g,999,2.0,,UPI,yes,5.0,yes
+ORD10491,Suresh Chandran,suresh.chandran@rediffmail.com,71912-60221,kochi,HOME & KITCHEN,Non-stick Pan,249,4.0,,Credit Card,Y,5.0,Yes
+ORD20027,Rahul Menon, rahul.menon@yahoo.com ,7865039475,Pune,Clothing,Formal Shirt,unknown,5.0,,Net Banking,No,2.0,0
+ORD10870,Vijay Kumar,vijay.kumar@rediffmail.com,37568-16784,Ahmedabad,beauty,Lipstick,4999,,11/12/2025,Net Banking,0,,No
+ORD10606,Sanjay Subramaniam,sanjay.subramaniam@gmail.com,3879402620,kochi,Beauty,Shampoo,2499,1.0,12-06-2025,UPI,0,,N
+ORD10364,Vignesh Nair,vignesh.nair@outlook.com,+911857481700,bengaluru,Toys,Building Blocks,unknown,5.0,04-12-2024,Debit Card,yes,1.0,No
+ORD10070,Karthik Sharma,karthik.sharma@yahoo.com,+912646471543,kochi,CLOTHING,Kurti,149,4.0,05-18-2024,,1,5.0,no
+ORD10549,Deepa Menon,deepa.menon@yahoo.com,83882 17648,hyderabad,electronics,Power Bank,unknown,1.0,03-29-2025,Net Banking,N,1.0,N
+ORD10161,Meena Raj,meena.raj@rediffmail.com,+918179217174,Chennai,BEAUTY,Moisturizer,"2,499",1.0,09-23-2025,Net Banking,1,1.0,Y
+ORD10012,Sanjay Nair,sanjay.nair@outlook.com,+918465648236,MUMBAI,Beauty,Shampoo,149,5.0,,Net Banking,Yes,1.0,yes
+ORD10145,Priya Subramaniam,PRIYA.SUBRAMANIAM@GMAIL.COM,2583206799,bengaluru,Toys,Building Blocks,unknown,4.0,07/02/2025,Cash on Delivery,No,1.0,0
+ORD10518,Harish Pillai,,43561 40384,Ahmedabad,Grocery,Sugar 1kg,299,1.0,26 Aug 2025,Net Banking,0,,yes
+ORD10428,Ritu Gupta,ritu.gupta@gmail.com,5057303627,chennai,TOYS,Board Game,1999,4.0,,Credit Card,Yes,5.0,N
+ORD10640,Karthik Pillai,karthik.pillai@outlook.com,1437884437, Mumbai  ,beauty,Lipstick,unknown,1.0,04-07-2025,Cash on Delivery,yes,1.0,1
+ORD10177,Pooja Gupta,pooja.gupta@outlook.com,04217 76253,KOLKATA,Grocery,Sugar 1kg,349,5.0,23 Jun 2024,Debit Card,N,4.0,No
+ORD10441,Lakshmi Raj,lakshmi.raj@yahoo.com,0566186323,Ahmedabad,sports,Dumbbell Set,499,3.0,09/03/2024,Credit Card,0,2.0,
+ORD10522,Karthik Menon,karthik.menon@rediffmail.com,82419-96264,COIMBATORE,SPORTS,Running Shoes,999,1.0,08 Dec 2024,Credit Card,0,,Yes
+ORD10898,Suresh Kumar,suresh.kumar@outlook.com,+913212440293,coimbatore,Books,Self-help Book,2999,5.0,23 Jan 2024,Credit Card,Y,5.0,No
+ORD10971,Sanjay Kumar,sanjay.kumar@yahoo.com,24687-22037,Bangalore,TOYS,Board Game,1499,5.0,2024-10-03,Debit Card,No,,N
+ORD10689,Manoj Rao,manoj.rao@yahoo.com,,Pune,SPORTS,Cricket Bat,599,3.0,,Cash on Delivery,1,3.0,Y
+ORD10232,Arun Nair, arun.nair@gmail.com ,1534735528,kochi,BOOKS,Self-help Book,599,2.0,27/05/2024,Debit Card,N,2.0,
+ORD10211,Kavya Menon,kavya.menon@outlook.com,72466 57293,delhi,Clothing,Jacket,1199,4.0,12/05/2024,Net Banking,0,3.0,No
+ORD10641,Naveen Iyer,naveen.iyer@gmail.com,+912910845078,N/A,toys,Action Figure,249,3.0,2025-03-14,UPI,Yes,,N
+ORD10144,Sanjay Gupta,sanjay.gupta@rediffmail.com,,ahmedabad,Home & Kitchen,Non-stick Pan,unknown,2.0,07 Dec 2025,Debit Card,No,3.0,yes
+ORD10754,Sneha Nair,sneha.nair@gmail.com,7926517328, Ahmedabad  ,TOYS,RC Car,249,2.0,2024-03-26,Net Banking,0,1.0,N
+ORD10520,Sneha Raj,sneha.raj@gmail.com,6834826899,Kolkata,clothing,Denim Jeans,unknown,5.0,16 Jan 2024,Cash on Delivery,1,3.0,
+ORD10349,Deepa Subramaniam,deepa.subramaniam@rediffmail.com,94551-58886,mumbai,grocery,Sugar 1kg,unknown,1.0,,Credit Card,Y,5.0,1
+ORD10299,Ritu Subramaniam, ritu.subramaniam@gmail.com ,74325-12257,hyderabad,Toys,Action Figure,299,3.0,2024-12-08,UPI,yes,,No
+ORD10767,Vignesh Pillai, vignesh.pillai@yahoo.com ,9307968590,Delhi,Electronics,USB-C Cable,1499,5.0,16 Aug 2025,Debit Card,yes,,Yes
+ORD10429,Naveen Reddy,naveen.reddy@outlook.com,6194588707,Kolkata,Grocery,Sugar 1kg,"2,499",2.0,02/06/2025,,No,2.0,Y
+ORD10613,Priya Reddy,priya.reddy@rediffmail.com,01140-03471,chennai,Toys,RC Car,2999,5.0,11 Apr 2024,Debit Card,,1.0,1
+ORD10957,Pooja Raj,pooja.raj@outlook.com,1337687058,Mumbai,clothing,Jacket,399,4.0,,Credit Card,no,2.0,No
+ORD10966,Lakshmi Nair,lakshmi.nair@yahoo.com,+915562168335,Coimbatore,CLOTHING,Denim Jeans,unknown,2.0,25 Feb 2024,Credit Card,no,3.0,Yes
+ORD10009,Anitha Sharma,anitha.sharma@yahoo.com,3487401640,bengaluru,beauty,Shampoo,799,0.0,25/09/2024,UPI,,1.0,1
+ORD10157,Meena Gupta, meena.gupta@yahoo.com ,+911448850155,bengaluru,BOOKS,Self-help Book,149,4.0,28/06/2024,Cash on Delivery,no,4.0,0
+ORD10540,Kavya Menon,,6219865504, Kolkata  ,Electronics,Smartwatch,₹1499,3.0,,Net Banking,1,,N
+ORD10507,Karthik Menon,karthik.menon@rediffmail.com,+911746813592,Kochi,Grocery,Tea Powder 500g,₹349,5.0,23 Sep 2025,Cash on Delivery,N,5.0,1
+ORD10437,Manoj Gupta,manoj.gupta@outlook.com,05595-50178,pune,Home & Kitchen,Mixer Grinder,₹699,4.0,06-01-2025,Credit Card,,2.0,N
+ORD10267,Kavya Rao,kavya.rao@rediffmail.com,00534-74916,CHENNAI,beauty,Sunscreen,unknown,1.0,2024-11-07,Credit Card,Yes,3.0,
+ORD10462,Harish Pillai,harish.pillai@gmail.com,74491 60936, Pune  ,Electronics,Bluetooth Speaker,₹499,1.0,2024-02-29,Credit Card,No,5.0,No
+ORD10577,Deepa Kumar, deepa.kumar@outlook.com ,78536 98816, Delhi  ,GROCERY,Sugar 1kg,699,,10-23-2024,,Y,1.0,
+ORD10339,Meena Kumar, meena.kumar@outlook.com ,74018 27279,delhi,toys,Board Game,unknown,4.0,02-04-2024,UPI,no,,Yes
+ORD10256,Priya Raj,priya.raj@gmail.com,2617647501, Ahmedabad  ,Sports,Cricket Bat,unknown,5.0,05/06/2025,,0,,yes
+ORD10830,Meena Iyer,,,Chennai,toys,Puzzle Set,2499,2.0,,Debit Card,yes,2.0,yes
+ORD10877,Pooja Subramaniam,pooja.subramaniam@gmail.com,+915895247609,Kochi,grocery,Tea Powder 500g,349,2.0,,Credit Card,yes,2.0,no
+ORD10666,Pooja Raj,pooja.raj@outlook.com,,hyderabad,Sports,Yoga Mat,₹1199,5.0,09/01/2025,UPI,no,3.0,0
+ORD10561,Harish Subramaniam,harish.subramaniam@gmail.com,41743-04350, Delhi  ,Toys,Building Blocks,₹999,2.0,16/06/2024,Cash on Delivery,yes,1.0,1
+ORD10209,Kavya Rao,kavya.rao@rediffmail.com,3103037236, Ahmedabad  ,Electronics,Power Bank,₹0,4.0,,UPI,No,5.0,Y
+ORD10288,Manoj Iyer,manoj.iyer@rediffmail.com,12819-64825, Ahmedabad  ,toys,Board Game,1499,4.0,05 Oct 2025,Debit Card,,,No
+ORD10002,Priya Subramaniam,priya.subramaniam@outlook.com,6475255341,Pune,Grocery,Sugar 1kg,249,5.0,,Debit Card,,,N
+ORD10342,Karthik Subramaniam,karthik.subramaniam@yahoo.com,+912654696815, Kochi  ,books,Comic Book,150000,,15/09/2025,Debit Card,no,4.0,no
+ORD10270,Harish Menon,harish.menon@outlook.com,3381059551,Mumbai,BEAUTY,Sunscreen,799,5.0,09-18-2025,Cash on Delivery,Yes,2.0,Yes
+ORD10266,Meena Nair,meena.nair@yahoo.com,,Bangalore,Beauty,Lipstick,599,4.0,23/09/2025,Cash on Delivery,Yes,2.0,1
+ORD10840,Sneha Sharma,sneha.sharma@rediffmail.com,72461-63034,Chennai,Sports,Yoga Mat,999,1.0,31 Jan 2024,Cash on Delivery,N,5.0,no
+ORD10847,Anitha Iyer,,, Coimbatore  ,Toys,Puzzle Set,unknown,5.0,,Debit Card,Y,1.0,no
+ORD10096,Vijay Menon,vijay.menon@outlook.com,1158693806,Coimbatore,GROCERY,Basmati Rice 5kg,1499,4.0,01 May 2025,UPI,0,4.0,yes
+ORD20022,Naveen Reddy,naveen.reddy@yahoo.com,+914381199537, Chennai  ,Clothing,Formal Shirt,249,3.0,10-13-2024,UPI,,1.0,no
+ORD10043,Deepa Nair,deepa.nair@yahoo.com,+917581814124,COIMBATORE,Beauty,Sunscreen,"1,199",5.0,03/04/2024,Net Banking,no,5.0,Yes
+ORD10829,Meena Iyer,meena.iyer@yahoo.com,+914742298359,Chennai,TOYS,Building Blocks,699,3.0,2025-05-03,Credit Card,N,5.0,Yes
+ORD10399,Anitha Nair, anitha.nair@outlook.com ,3670425496,CHENNAI,Grocery,Sugar 1kg,"1,999",2.0,12-15-2024,Credit Card,Y,1.0,no
+ORD10860,Deepa Iyer,deepa.iyer@rediffmail.com,5220720197,Kochi,grocery,Cooking Oil 1L,299,4.0,2024-09-16,Debit Card,Y,1.0,0
+ORD10629,Vijay Gupta, vijay.gupta@yahoo.com ,+918312441290,HYDERABAD,beauty,Moisturizer,499,2.0,18 Sep 2025,Debit Card,Yes,4.0,No
+ORD10046,Lakshmi Nair, lakshmi.nair@rediffmail.com ,05486 87403, Hyderabad  ,CLOTHING,Formal Shirt,199,3.0,12-05-2024,Net Banking,no,,1
+ORD10162,Manoj Sharma,manoj.sharma@rediffmail.com,1487696393,HYDERABAD,Grocery,Basmati Rice 5kg,unknown,3.0,14/12/2024,UPI,1,5.0,1
+ORD10728,Ritu Reddy,ritu.reddy@gmail.com,0115461758,Chennai,toys,Building Blocks,1199,3.0,20 Jun 2025,Debit Card,Yes,2.0,yes
+ORD10630,Suresh Nair,suresh.nair@outlook.com,5919226713,delhi,Grocery,Cooking Oil 1L,249,3.0,,Credit Card,yes,1.0,0
+ORD10289,Sanjay Pillai,sanjay.pillai@gmail.com,91179-11244,kochi,electronics,Power Bank,unknown,2.0,,Net Banking,Yes,,1
+ORD10590,Divya Raj,divya.raj@gmail.com,85818-10450, Ahmedabad  ,Books,Novel,599,5.0,2025-02-14,UPI,,2.0,0
+ORD10921,Harish Sharma,harish.sharma@rediffmail.com,33150 32198,Ahmedabad,BOOKS,Self-help Book,4999,2.0,12-19-2024,Debit Card,Yes,5.0,Y
+ORD10983,Karthik Chandran,karthik.chandran@rediffmail.com,0149726821,Hyderabad,Grocery,Basmati Rice 5kg,unknown,4.0,,Credit Card,Yes,3.0,0
+ORD10576,Vijay Iyer,VIJAY.IYER@REDIFFMAIL.COM,+914299074729,Ahmedabad,Sports,Cricket Bat,₹999,3.0,24 Mar 2025,Debit Card,0,3.0,Yes
+ORD10316,Sneha Rao,sneha.rao@gmail.com,9609454490,mumbai,Grocery,Tea Powder 500g,4999,4.0,27/09/2024,Credit Card,Yes,3.0,0
+ORD10918,Vijay Subramaniam,vijay.subramaniam@yahoo.com,3327633422,Ahmedabad,GROCERY,Basmati Rice 5kg,349,5.0,16/06/2025,Credit Card,N,1.0,0
+ORD10231,Anitha Kumar,,,kolkata,books,Textbook,499,3.0,,Net Banking,no,2.0,Yes
+ORD10810,Arun Rao,arun.rao@rediffmail.com,76716 21720, Chennai  ,Grocery,Atta 10kg,2499,1.0,02-20-2024,Net Banking,1,4.0,N
+ORD10699,Rahul Gupta,rahul.gupta@rediffmail.com,98529 73561,AHMEDABAD,Toys,RC Car,unknown,1.0,02-17-2025,Debit Card,No,4.0,yes
+ORD10853,Priya Kumar,priya.kumar@outlook.com,1213008823,Kolkata,Electronics,Wireless Earbuds,199,3.0,09 Aug 2025,Cash on Delivery,,4.0,1
+ORD10712,Lakshmi Raj,lakshmi.raj@gmail.com,5780978302,N/A,clothing,Denim Jeans,149,,2024-11-03,Debit Card,no,,N
+ORD10077,Sanjay Subramaniam, sanjay.subramaniam@rediffmail.com ,4074517133,Pune,Grocery,Tea Powder 500g,299,5.0,14/03/2025,Credit Card,N,,N
+ORD10634,Lakshmi Reddy,lakshmi.reddy@yahoo.com,62472-86394,hyderabad,BOOKS,Cookbook,249,4.0,22/06/2024,Debit Card,yes,,No
+ORD20004,Vignesh Subramaniam, VIGNESH.SUBRAMANIAM@YAHOO.COM ,2114716560,KOLKATA,Electronics,Power Bank,unknown,3.0,,Debit Card,0,5.0,Yes
+ORD10248,Anitha Gupta,anitha.gupta@rediffmail.com,69461-19524,Ahmedabad,Home & Kitchen,Non-stick Pan,unknown,4.0,07/01/2024,Cash on Delivery,Yes,2.0,No
+ORD10820,Rahul Iyer,rahul.iyer@rediffmail.com,87860-20392, Coimbatore  ,SPORTS,Football,349,1.0,2024-02-05,UPI,no,2.0,
+ORD20006,Suresh Pillai, suresh.pillai@outlook.com ,8640675602,KOCHI,Toys,Action Figure,999,4.0,15 Apr 2024,UPI,Y,2.0,Yes
+ORD10477,Kavya Subramaniam,kavya.subramaniam@outlook.com,+910715238676,Ahmedabad,BEAUTY,Sunscreen,799,3.0,,Cash on Delivery,No,,No
+ORD10671,Vijay Pillai, vijay.pillai@outlook.com ,07402 74067,CHENNAI,Beauty,Face Wash,unknown,1.0,05-21-2024,Cash on Delivery,Yes,3.0,1
+ORD10086,Sneha Reddy,sneha.reddy@yahoo.com,+912060385050,Delhi,Sports,Running Shoes,150000,3.0,29 Jul 2024,Debit Card,1,4.0,0
+ORD10470,Anitha Kumar,anitha.kumar@yahoo.com,0016809414,Chennai,Electronic,USB-C Cable,1499,4.0,,Net Banking,,5.0,N
+ORD10226,Divya Reddy,divya.reddy@yahoo.com,+918430894870,Ahmedabad,grocery,Tea Powder 500g,499,5.0,,Debit Card,1,1.0,yes
+ORD10775,Rahul Subramaniam,rahul.subramaniam@gmail.com,4923435969,Pune,Grocery,Atta 10kg,₹1499,3.0,01-18-2024,UPI,1,1.0,N
+ORD10332,Suresh Reddy,,27104 33187,hyderabad,BOOKS,Comic Book,699,2.0,2024-06-09,Cash on Delivery,,,N
+ORD10234,Lakshmi Rao,lakshmi.rao@outlook.com,54812-14785,mumbai,Grocery,Sugar 1kg,unknown,5.0,,Debit Card,1,4.0,1
+ORD10589,Naveen Menon,naveen.menon@outlook.com,,ahmedabad,ELECTRONICS,Smartwatch,349,,11-15-2025,Debit Card,1,,Yes
+ORD10476,Manoj Rao,manoj.rao@rediffmail.com,84369-98480,Hyderabad,Grocery,Atta 10kg,1499,1.0,04 Feb 2024,Cash on Delivery,N,2.0,
+ORD10919,Meena Iyer,meena.iyer@yahoo.com,70433-33188,Chennai,sports,Yoga Mat,₹199,2.0,25/03/2024,Cash on Delivery,0,,
+ORD10899,Deepa Kumar,deepa.kumar@yahoo.com,18911 34348,CHENNAI,sports,Football,"2,999",5.0,03 Dec 2025,Net Banking,Y,5.0,0
+ORD10600,Lakshmi Iyer,lakshmi.iyer@gmail.com,7269032655,Delhi,Clothing,Cotton T-Shirt,349,2.0,,Debit Card,yes,,
+ORD10422,Priya Chandran,priya.chandran@outlook.com,5326389021,mumbai,Electronics,Wireless Earbuds,₹999,3.0,2024-05-07,Debit Card,1,5.0,N
+ORD10688,Rahul Pillai,rahul.pillai@outlook.com,+913159757292,KOLKATA,GROCERY,Basmati Rice 5kg,599,4.0,26/07/2025,Credit Card,Y,1.0,No
+ORD10183,Manoj Sharma,manoj.sharma@outlook.com,9297517028, Kolkata  ,HOME & KITCHEN,Storage Container,unknown,1.0,,Debit Card,no,4.0,Yes
+ORD10618,Divya Subramaniam,divya.subramaniam@rediffmail.com,3953481105,Pune,Toys,Building Blocks,₹999,1.0,03-06-2025,Net Banking,Y,4.0,0
+ORD10333,Lakshmi Chandran, lakshmi.chandran@yahoo.com ,4249128965,DELHI,electronics,Smartwatch,799,4.0,,Cash on Delivery,Yes,,N
+ORD10439,Naveen Nair,naveen.nair@outlook.com,93884-13685, Kochi  ,Toys,Action Figure,199,,2025-03-15,Credit Card,N,5.0,0
+ORD10050,Sneha Pillai,sneha.pillai@yahoo.com,0182422535, Coimbatore  ,Grocery,Sugar 1kg,249,3.0,12 Oct 2025,Cash on Delivery,yes,3.0,
+ORD10906,Priya Reddy,priya.reddy@gmail.com,+910631755297,Delhi,Books,Cookbook,2499,3.0,06-09-2025,,No,,No
+ORD10006,Anitha Raj,anitha.raj@rediffmail.com,66701-06513,Hyderabad,ELECTRONICS,Wireless Earbuds,unknown,4.0,07-06-2024,Cash on Delivery,No,4.0,0
+ORD10530,Vignesh Subramaniam,vignesh.subramaniam@yahoo.com,5950310064,COIMBATORE,HOME & KITCHEN,Water Bottle,₹699,5.0,13/01/2024,Credit Card,No,,Yes
+ORD10235,Lakshmi Menon,lakshmi.menon@gmail.com,15083 53544,BENGALURU,SPORTS,Dumbbell Set,149,2.0,07-10-2025,,yes,3.0,yes
+ORD10487,Rahul Menon,rahul.menon@yahoo.com,2173373992, Coimbatore  ,Home & Kitchen,Mixer Grinder,199,5.0,03 Aug 2025,Cash on Delivery,1,2.0,Y
+ORD10934,Kavya Kumar,kavya.kumar@gmail.com,08346 95449,N/A,Clothing,Denim Jeans,unknown,,11-27-2025,Net Banking,,,Yes
+ORD10498,Kavya Gupta,kavya.gupta@rediffmail.com,6215918327,Mumbai,Beauty,Face Wash,₹499,1.0,2025-03-11,Net Banking,no,2.0,Yes
+ORD10981,Sanjay Nair,sanjay.nair@rediffmail.com,70894 40654,Kolkata,Electronics,Wireless Earbuds,1199,5.0,07-26-2024,Cash on Delivery,0,2.0,1
+ORD10107,Karthik Raj,karthik.raj@yahoo.com,+915611002255, Mumbai  ,grocery,Basmati Rice 5kg,₹4999,1.0,04-05-2024,UPI,Y,3.0,No
+ORD10444,Meena Gupta, meena.gupta@outlook.com ,4615402119,Bangalore,Books,Self-help Book,unknown,5.0,,Cash on Delivery,yes,,Y
+ORD10489,Ritu Subramaniam,ritu.subramaniam@rediffmail.com,52988-32201,CHENNAI,clothing,Kurti,unknown,4.0,25 Feb 2024,Debit Card,Yes,,Yes
+ORD10647,Arun Rao,arun.rao@outlook.com,07288 95927,Kolkata,Electronics,Power Bank,unknown,5.0,09 Mar 2025,Debit Card,1,,No
+ORD10013,Sneha Nair,sneha.nair@gmail.com,+913320037917,Hyderabad,TOYS,Action Figure,2499,2.0,,UPI,N,5.0,Y
+ORD10739,Harish Raj,harish.raj@yahoo.com,04376-61366,Delhi,ELECTRONICS,USB-C Cable,199,,25/03/2024,UPI,1,5.0,
+ORD10727,Harish Pillai,harish.pillai@outlook.com,+913679608289,Chennai,Books,Novel,249,2.0,15/12/2025,UPI,no,5.0,yes
+ORD10191,Kavya Nair,kavya.nair@gmail.com,53539 61367,Kochi,Clothing,Denim Jeans,0,1.0,,Credit Card,1,2.0,0
+ORD10977,Anitha Nair,anitha.nair@rediffmail.com,+916702751005,HYDERABAD,Toys,Action Figure,1199,1.0,01-03-2024,Net Banking,No,3.0,No
+ORD10833,Vijay Kumar,vijay.kumar@outlook.com,24564 11992,BENGALURU,home & kitchen,Mixer Grinder,999,1.0,26 Aug 2024,UPI,Yes,3.0,0
+ORD10283,Naveen Menon,naveen.menon@rediffmail.com,7082723590, Mumbai  ,Grocery,Basmati Rice 5kg,399,4.0,,UPI,N,1.0,Yes
+ORD10030,Deepa Sharma,deepa.sharma@yahoo.com,5931746120,Delhi,Clothing,Cotton T-Shirt,unknown,4.0,28 Aug 2024,Net Banking,0,,no
+ORD10170,Ritu Chandran,ritu.chandran@gmail.com,6542140665,ahmedabad,Books,Novel,₹249,2.0,,Credit Card,N,,1
+ORD10181,Sneha Menon,sneha.menon@rediffmail.com,04682 75670,Delhi,Sports,Cricket Bat,2499,4.0,25 Aug 2024,Credit Card,1,2.0,no
+ORD10101,Rahul Gupta,rahul.gupta@gmail.com,58994 41715,COIMBATORE,BEAUTY,Shampoo,₹1499,4.0,12-29-2025,Cash on Delivery,,,N
+ORD10198,Manoj Gupta,manoj.gupta@outlook.com,55963-63212,hyderabad,Beauty,Shampoo,unknown,1.0,2025-08-26,Credit Card,no,5.0,No
+ORD10496,Lakshmi Menon,lakshmi.menon@gmail.com,0306831764,bengaluru,SPORTS,Football,unknown,2.0,2025-07-11,UPI,no,4.0,0
+ORD10722,Harish Subramaniam,,75398-92313,Hyderabad,BEAUTY,Shampoo,₹599,1.0,03 Oct 2025,UPI,1,2.0,N
+ORD10648,Meena Menon,meena.menon@yahoo.com,4443596245,chennai,Toys,RC Car,unknown,5.0,24/03/2024,,yes,1.0,Y
+ORD20009,Kavya Nair,kavya.nair@gmail.com,70312 07356,Delhi,clothing,Formal Shirt,unknown,4.0,2025-04-19,Net Banking,Y,2.0,Yes
+ORD10964,Manoj Rao,manoj.rao@rediffmail.com,+914123872493,PUNE,Clothing,Jacket,349,,2025-05-20,Net Banking,no,,no
+ORD10711,Arun Menon,arun.menon@yahoo.com,28359 99400,hyderabad,toys,RC Car,4999,1.0,,Debit Card,No,2.0,N
+ORD10374,Naveen Menon,naveen.menon@outlook.com,3470574238,Pune,Electronic,Power Bank,149,2.0,22/12/2024,UPI,No,4.0,no
+ORD10679,Ritu Reddy,,3940598026, Kolkata  ,ELECTRONICS,Smartwatch,199,3.0,2024-05-30,UPI,No,5.0,no
+ORD10914,Anitha Menon,anitha.menon@gmail.com,8082267990,Kochi,GROCERY,Tea Powder 500g,unknown,1.0,20/01/2024,Debit Card,no,3.0,N
+ORD10649,Sneha Iyer,sneha.iyer@rediffmail.com,39670-24365,COIMBATORE,sports,Dumbbell Set,149,2.0,12-26-2024,Debit Card,1,1.0,yes
+ORD10798,Pooja Reddy,pooja.reddy@yahoo.com,7285021553,KOLKATA,toys,Action Figure,349,3.0,04-09-2025,Cash on Delivery,,5.0,Y
+ORD10848,Anitha Pillai,anitha.pillai@outlook.com,+913610077017, Kochi  ,Electronic,Smartwatch,149,4.0,16 Nov 2024,Net Banking,N,5.0,N
+ORD10461,Harish Reddy,harish.reddy@gmail.com,3732653060, Ahmedabad  ,Sports,Dumbbell Set,599,1.0,05-23-2025,Cash on Delivery,No,4.0,0
+ORD10414,Naveen Nair,naveen.nair@rediffmail.com,49187 27420,Coimbatore,Toys,Building Blocks,unknown,1.0,2024-06-07,Cash on Delivery,0,2.0,N
+ORD10132,Lakshmi Pillai,LAKSHMI.PILLAI@YAHOO.COM,+912885744890,delhi,Beauty,Sunscreen,349,2.0,,Cash on Delivery,No,4.0,0
+ORD10040,Sneha Menon,sneha.menon@gmail.com,5978207151,Bangalore,Grocery,Basmati Rice 5kg,1199,1.0,,Cash on Delivery,Y,5.0,no
+ORD10435,Karthik Gupta,karthik.gupta@rediffmail.com,75844-66345,Kochi,beauty,Face Wash,"2,499",3.0,2024-02-07,Net Banking,No,5.0,Y
+ORD10216,Arun Rao,arun.rao@gmail.com,,PUNE,beauty,Lipstick,"1,999",1.0,18 Aug 2025,Cash on Delivery,,3.0,N
+ORD10556,,divya.chandran@gmail.com,3643159489,Pune,sports,Running Shoes,₹1499,2.0,12-23-2024,Net Banking,1,,N
+ORD10567,Sanjay Chandran,sanjay.chandran@outlook.com,+919504702059,DELHI,toys,RC Car,149,2.0,09-18-2025,UPI,0,4.0,0
+ORD10763,Priya Menon,priya.menon@yahoo.com,1486565818,Delhi,Sports,Running Shoes,4999,5.0,,Cash on Delivery,N,4.0,no
+ORD10475,Arun Sharma,arun.sharma@rediffmail.com,20506-82122, Kolkata  ,Books,Novel,₹2999,5.0,,Credit Card,no,4.0,Yes
+ORD10457,Priya Sharma,priya.sharma@rediffmail.com,,Coimbatore,beauty,Moisturizer,1499,5.0,22/06/2025,Net Banking,Yes,2.0,yes
+ORD10812,Deepa Raj, deepa.raj@yahoo.com ,2526022169,Coimbatore,Sports,Cricket Bat,1499,2.0,09 Oct 2024,,N,3.0,N
+ORD10261,Lakshmi Subramaniam,lakshmi.subramaniam@outlook.com,72757-84468,hyderabad,Toys,Board Game,349,5.0,02-20-2025,Net Banking,No,5.0,No
+ORD10817,Sneha Rao,sneha.rao@rediffmail.com,+916138268709,Kolkata,SPORTS,Yoga Mat,unknown,5.0,,UPI,N,,1
+ORD10036,Ritu Gupta, ritu.gupta@gmail.com ,,Pune,ELECTRONICS,Wireless Earbuds,399,3.0,04-09-2025,Debit Card,yes,,no
+ORD10828,Meena Pillai,meena.pillai@outlook.com,, Mumbai  ,toys,RC Car,₹1199,2.0,2024-09-04,Cash on Delivery,No,2.0,0
+ORD10912,Deepa Reddy,deepa.reddy@rediffmail.com,+919813026564,kochi,CLOTHING,Formal Shirt,unknown,3.0,03-25-2024,Debit Card,Y,4.0,No
+ORD10310,Lakshmi Pillai,lakshmi.pillai@yahoo.com,1912841173,Coimbatore,CLOTHING,Formal Shirt,₹4999,,10-23-2024,UPI,no,3.0,No
+ORD10277,Suresh Sharma,suresh.sharma@outlook.com,,coimbatore,Home & Kitchen,Mixer Grinder,0,2.0,02 Feb 2024,Cash on Delivery,,,Y
+ORD10637,Suresh Nair,suresh.nair@rediffmail.com,3727768576, Bengaluru  ,clothing,Formal Shirt,1999,5.0,14 Sep 2024,UPI,Yes,2.0,yes
+ORD10655,Anitha Reddy,,7321750361,Coimbatore,GROCERY,Basmati Rice 5kg,399,1.0,05-30-2024,UPI,No,,N
+ORD10623,Naveen Kumar,naveen.kumar@yahoo.com,2732022271,Bangalore,Grocery,Sugar 1kg,unknown,2.0,,Credit Card,No,2.0,0
+ORD10836,Priya Subramaniam,priya.subramaniam@gmail.com,6878518569,ahmedabad,books,Textbook,4999,,,Credit Card,1,3.0,
+ORD10845,Vignesh Raj,vignesh.raj@gmail.com,+916094067148,mumbai,Clothing,Jacket,299,,04-17-2024,UPI,no,,1
+ORD10394,Priya Reddy,,6558665254, Delhi  ,Grocery,Atta 10kg,₹199,-1.0,2025-04-05,Debit Card,no,4.0,
+ORD10973,Vignesh Pillai,vignesh.pillai@gmail.com,6747152035,KOLKATA,books,Textbook,199,1.0,06-24-2025,Debit Card,Yes,3.0,no
+ORD10108,Vijay Pillai,vijay.pillai@rediffmail.com,02771 67014,N/A,GROCERY,Sugar 1kg,2999,2.0,13 Aug 2025,Credit Card,no,4.0,
+ORD10980,Vijay Reddy,vijay.reddy@outlook.com,3397178568,Coimbatore,Books,Textbook,199,2.0,02-07-2024,UPI,0,4.0,N
+ORD10525,Meena Pillai,meena.pillai@rediffmail.com,,ahmedabad,Clothing,Denim Jeans,599,4.0,2025-10-31,Debit Card,yes,1.0,
+ORD10785,Kavya Sharma,kavya.sharma@gmail.com,12865 58167, Bengaluru  ,CLOTHING,Formal Shirt,"4,999",3.0,2024-07-29,Cash on Delivery,yes,5.0,
+ORD10048,Harish Subramaniam,harish.subramaniam@rediffmail.com,92856-54310,PUNE,Home & Kitchen,Mixer Grinder,unknown,1.0,04-30-2024,Net Banking,0,5.0,N
+ORD10204,Manoj Kumar,manoj.kumar@outlook.com,87032 03207,Delhi,Home & Kitchen,LED Bulb,unknown,3.0,2025-05-21,UPI,,5.0,0
+ORD10960,Kavya Gupta,kavya.gupta@yahoo.com,54030 79915,Ahmedabad,Electronics,Smartwatch,399,1.0,,Cash on Delivery,Y,4.0,Yes
+ORD10632,Sanjay Chandran,sanjay.chandran@outlook.com,1883458192, Ahmedabad  ,CLOTHING,Formal Shirt,199,4.0,,Debit Card,1,3.0,N
+ORD10022,Vignesh Chandran,vignesh.chandran@yahoo.com,13493 61832, Chennai  ,BOOKS,Novel,399,5.0,10 Nov 2024,Net Banking,yes,,0
+ORD10403,Divya Kumar,divya.kumar@gmail.com,0802711221,KOLKATA,Sports,Football,349,4.0,01-03-2025,Net Banking,1,2.0,no
+ORD10084,Pooja Sharma,pooja.sharma@outlook.com,,Bengaluru,beauty,Lipstick,₹349,3.0,03/08/2025,UPI,yes,,No
+ORD10131,Harish Pillai,,91559 42843,Bangalore,Grocery,Tea Powder 500g,1199,2.0,,Net Banking,1,3.0,no
+ORD10416,Karthik Reddy,karthik.reddy@outlook.com,29618-03324,Hyderabad,Sports,Dumbbell Set,unknown,,02 Mar 2024,Cash on Delivery,No,2.0,
+ORD20019,Naveen Subramaniam,naveen.subramaniam@yahoo.com,+919294455116,Coimbatore,TOYS,Building Blocks,"1,199",1.0,09/10/2025,Debit Card,0,4.0,Yes
+ORD10842,Priya Sharma,priya.sharma@yahoo.com,5166608123,Kochi,Toys,Action Figure,299,1.0,,Credit Card,Yes,,
+ORD10742,Sanjay Iyer,sanjay.iyer@yahoo.com,8907499359, Coimbatore  ,Home & Kitchen,Storage Container,₹1999,-3.0,,Credit Card,1,4.0,no
+ORD10698,Arun Raj,arun.raj@rediffmail.com,39456-45234,Ahmedabad,Electronics,Wireless Earbuds,₹499,3.0,01 Nov 2024,Debit Card,Yes,2.0,Y
+ORD10287,Naveen Rao,naveen.rao@rediffmail.com,60538-44446,N/A,ELECTRONICS,Power Bank,unknown,,27/01/2024,Net Banking,,1.0,no
+ORD10124,Sneha Raj,sneha.raj@outlook.com,9913662103,Kolkata,Books,Comic Book,2999,2.0,02 Jun 2024,Debit Card,0,,Yes
+ORD10034,Karthik Sharma, karthik.sharma@rediffmail.com ,8367365766, Pune  ,Home & Kitchen,Mixer Grinder,₹699,5.0,18/01/2025,Cash on Delivery,0,5.0,No
+ORD20011,Sanjay Subramaniam, sanjay.subramaniam@rediffmail.com ,4074517133,Pune,Grocery,Tea Powder 500g,299,5.0,14/03/2025,Credit Card,N,,N
+ORD10517,Meena Reddy, meena.reddy@rediffmail.com ,93288-09832,Mumbai,home & kitchen,Water Bottle,599,,23/08/2024,Credit Card,Yes,2.0,No
+ORD10924,Vijay Chandran,vijay.chandran@yahoo.com,+910191090488,hyderabad,toys,RC Car,1199,,28/03/2025,Debit Card,Y,3.0,1
+ORD10020,Lakshmi Pillai,lakshmi.pillai@yahoo.com,98941 34352,N/A,SPORTS,Dumbbell Set,699,2.0,2024-02-16,Credit Card,Y,,0
+ORD11000,Deepa Rao,deepa.rao@gmail.com,94845 42259, Kochi  ,BEAUTY,Moisturizer,"1,499",3.0,2024-07-12,Net Banking,No,2.0,no
+ORD10220,Karthik Iyer,karthik.iyer@yahoo.com,,Ahmedabad,ELECTRONICS,USB-C Cable,299,1.0,01-20-2024,Cash on Delivery,N,,0
+ORD10892,Deepa Nair,deepa.nair@outlook.com,3277004535,MUMBAI,Beauty,Face Wash,149,5.0,03/03/2024,UPI,N,,Y
+ORD10580,Pooja Subramaniam,pooja.subramaniam@outlook.com,90674-56865, Mumbai  ,Electronics,USB-C Cable,2999,1.0,2024-05-09,UPI,no,,1
+ORD10482,Divya Nair,divya.nair@rediffmail.com,98780 92704,BENGALURU,Toys,Puzzle Set,-500,2.0,,Credit Card,Y,1.0,no
+ORD10932,Karthik Subramaniam, karthik.subramaniam@yahoo.com ,,AHMEDABAD,Home & Kitchen,Mixer Grinder,199,1.0,04/05/2024,Credit Card,N,4.0,N
+ORD10357,Manoj Reddy, manoj.reddy@outlook.com ,8231334845, Kochi  ,Beauty,Face Wash,399,3.0,16/09/2025,Net Banking,Y,2.0,no
+ORD10662,Arun Iyer,,0630663605,Coimbatore,Toys,Board Game,-500,4.0,,Debit Card,Yes,4.0,
+ORD10225,Karthik Rao, karthik.rao@gmail.com ,03045-31943, Pune  ,Electronic,Wireless Earbuds,₹1199,,19 May 2025,Debit Card,N,,1
+ORD10760,Anitha Kumar,anitha.kumar@yahoo.com,46144-66276, Kochi  ,SPORTS,Dumbbell Set,499,2.0,2025-11-27,UPI,0,,1
+ORD10093,Sneha Subramaniam,sneha.subramaniam@yahoo.com,51355 21570,Ahmedabad,beauty,Sunscreen,149,5.0,2024-09-19,Debit Card,Yes,5.0,1
+ORD10152,Karthik Iyer,karthik.iyer@gmail.com,03886-08680,Chennai,Grocery,Atta 10kg,unknown,4.0,,Net Banking,yes,,Yes
+ORD20018,Anitha Subramaniam,ANITHA.SUBRAMANIAM@YAHOO.COM,62911-87228,Ahmedabad,CLOTHING,Jacket,399,2.0,2024-01-21,Debit Card,0,4.0,1
+ORD10318,Arun Chandran, arun.chandran@rediffmail.com ,0595565749,Bangalore,Sports,Running Shoes,599,1.0,02 Jun 2024,,N,2.0,no
+ORD10449,,sneha.reddy@gmail.com,+914936999516, Kochi  ,books,Textbook,"99,999",3.0,12-10-2024,Cash on Delivery,N,3.0,
+ORD10804,Divya Rao,,3961017590,COIMBATORE,SPORTS,Running Shoes,unknown,5.0,,UPI,yes,,Yes
+ORD10746,Karthik Chandran,karthik.chandran@outlook.com,14668 86583,Kolkata,BEAUTY,Shampoo,₹1199,4.0,08-22-2024,Net Banking,1,,Y
+ORD10523,Rahul Subramaniam,rahul.subramaniam@gmail.com,+915709001635, Pune  ,SPORTS,Cricket Bat,299,3.0,04/08/2024,Credit Card,0,3.0,Y
+ORD10280,Arun Sharma, arun.sharma@yahoo.com ,04227-11332,Hyderabad,Beauty,Moisturizer,499,4.0,15 Sep 2025,UPI,no,4.0,0
+ORD10584,Lakshmi Gupta,lakshmi.gupta@gmail.com,1338926087,pune,Beauty,Sunscreen,699,5.0,2025-07-24,Net Banking,Y,5.0,0
+ORD10765,Pooja Raj,pooja.raj@rediffmail.com,00490 37295,mumbai,Toys,Puzzle Set,₹499,2.0,,Net Banking,N,1.0,
+ORD10605,Kavya Raj,kavya.raj@outlook.com,42034-01535,Pune,clothing,Kurti,unknown,,,Cash on Delivery,yes,5.0,yes
+ORD20017,Priya Nair,priya.nair@yahoo.com,2791111085,DELHI,Sports,Cricket Bat,₹799,3.0,10 Mar 2025,Credit Card,no,5.0,N
+ORD10350,Sneha Kumar,sneha.kumar@gmail.com,+915932971509,kolkata,Sports,Cricket Bat,299,4.0,,Credit Card,N,5.0,Y
+ORD10928,Vignesh Menon,vignesh.menon@gmail.com,65586 81900, Bengaluru  ,TOYS,Action Figure,699,5.0,08/08/2024,Credit Card,,2.0,1
+ORD10375,Lakshmi Gupta,lakshmi.gupta@outlook.com,7522501394,Pune,BOOKS,Cookbook,299,1.0,27 Jul 2025,Net Banking,No,,N
+ORD10401,Naveen Gupta,,97824-57598,Pune,Beauty,Shampoo,1499,3.0,03 Sep 2025,Net Banking,Yes,2.0,N
+ORD10705,Deepa Raj, DEEPA.RAJ@GMAIL.COM ,+919100420288, Kolkata  ,Beauty,Moisturizer,699,1.0,2025-07-11,Cash on Delivery,No,2.0,Yes
+ORD10258,Suresh Gupta,SURESH.GUPTA@GMAIL.COM,4872975859,Bangalore,books,Novel,699,1.0,15/02/2024,UPI,Y,3.0,yes
+ORD10945,Vijay Pillai,vijay.pillai@yahoo.com,93868-27847,hyderabad,TOYS,Action Figure,0,4.0,05/09/2025,Cash on Delivery,Yes,,yes
+ORD10852,Sanjay Rao,SANJAY.RAO@OUTLOOK.COM,93427-18669,Kochi,BOOKS,Cookbook,"1,499",2.0,2025-10-26,Net Banking,Y,1.0,1
+ORD10073,Divya Kumar,DIVYA.KUMAR@YAHOO.COM,+916112545738,ahmedabad,CLOTHING,Formal Shirt,4999,5.0,,Net Banking,yes,3.0,Yes
+ORD10196,Karthik Gupta,karthik.gupta@rediffmail.com,8297374896, Delhi  ,Grocery,Cooking Oil 1L,1199,3.0,,Cash on Delivery,Y,3.0,yes
+ORD10484,Arun Kumar,arun.kumar@gmail.com,,N/A,electronics,Smartwatch,₹1199,5.0,18/06/2025,Debit Card,1,2.0,
+ORD10856,Deepa Iyer,deepa.iyer@yahoo.com,6444843686,AHMEDABAD,Toys,Building Blocks,399,5.0,15/08/2024,Cash on Delivery,yes,,Yes
+ORD10138,Rahul Pillai,rahul.pillai@gmail.com,37645 20881,Chennai,Clothing,Formal Shirt,₹499,3.0,23/02/2024,Debit Card,N,4.0,1
+ORD10495,Ritu Gupta,ritu.gupta@gmail.com,+910340301095,mumbai,Electronic,Wireless Earbuds,1999,5.0,,Debit Card,yes,,No
+ORD10773,Manoj Kumar,manoj.kumar@outlook.com,0396964535,pune,GROCERY,Cooking Oil 1L,unknown,1.0,02-15-2024,Cash on Delivery,,,
+ORD10551,Pooja Chandran,pooja.chandran@gmail.com,97561 54705,Chennai,sports,Running Shoes,799,5.0,2025-10-03,Debit Card,1,,yes
+ORD10463,Harish Chandran,harish.chandran@yahoo.com,9821374556,Pune,Beauty,Moisturizer,799,4.0,28/10/2024,Cash on Delivery,1,2.0,Yes
+ORD10202,Harish Pillai,harish.pillai@yahoo.com,62620-44397,DELHI,Grocery,Basmati Rice 5kg,599,2.0,2024-03-28,Net Banking,no,4.0,1
+ORD10313,, vignesh.sharma@gmail.com ,0559342967,Kochi,Toys,RC Car,599,1.0,10/07/2025,Credit Card,no,,N
+ORD10291,Arun Sharma,arun.sharma@rediffmail.com,42346-19942,BENGALURU,home & kitchen,Non-stick Pan,unknown,4.0,,Cash on Delivery,yes,,no
+ORD10961,Divya Iyer,divya.iyer@yahoo.com,10930-54847,kochi,sports,Yoga Mat,₹-500,2.0,12 May 2025,Credit Card,N,,
+ORD10190,Deepa Kumar, deepa.kumar@rediffmail.com ,+911827548015,bengaluru,clothing,Jacket,₹2999,5.0,,UPI,1,4.0,yes
+ORD10764,Kavya Nair, kavya.nair@rediffmail.com ,3788119389,PUNE,Clothing,Formal Shirt,299,4.0,2024-06-19,Net Banking,N,,Yes
+ORD10113,, harish.rao@rediffmail.com ,+912442043805,KOCHI,Sports,Football,2999,4.0,17 Aug 2024,Net Banking,,,yes
+ORD10950,Pooja Nair,,+913726432058,Hyderabad,Electronic,Power Bank,unknown,2.0,09-30-2024,Cash on Delivery,0,,No
+ORD10184,Ritu Chandran,ritu.chandran@gmail.com,6565045547,Bangalore,books,Cookbook,499,5.0,,Net Banking,1,2.0,1
+ORD10153,Harish Iyer,,37145 21117,kochi,Grocery,Basmati Rice 5kg,4999,5.0,07 Jun 2025,Net Banking,1,4.0,
+ORD10825,Anitha Nair,anitha.nair@outlook.com,,AHMEDABAD,Home & Kitchen,Non-stick Pan,699,2.0,03-26-2024,Cash on Delivery,Yes,2.0,0
+ORD10326,Divya Nair,divya.nair@rediffmail.com,30448 36085,COIMBATORE,CLOTHING,Kurti,unknown,4.0,,Credit Card,Yes,3.0,yes
+ORD10704,Sanjay Menon,sanjay.menon@gmail.com,16399-49013,pune,Clothing,Kurti,₹149,5.0,,Cash on Delivery,N,1.0,yes
+ORD10045,Divya Kumar,divya.kumar@gmail.com,+911851888880,Chennai,Books,Comic Book,2499,4.0,01-17-2025,Cash on Delivery,no,2.0,No
+ORD10445,Sanjay Rao,SANJAY.RAO@YAHOO.COM,+914937830639,Bengaluru,Books,Cookbook,399,5.0,,Net Banking,1,2.0,yes
+ORD10788,Suresh Pillai,suresh.pillai@rediffmail.com,,Bengaluru,BEAUTY,Sunscreen,199,1.0,13/10/2025,Net Banking,yes,1.0,Y
+ORD10007,,deepa.raj@rediffmail.com,87234 30980,Kolkata,Electronics,Wireless Earbuds,599,4.0,27/06/2025,Debit Card,,4.0,No
+ORD10251,Anitha Sharma,anitha.sharma@outlook.com,91567-16493,Pune,Grocery,Tea Powder 500g,1999,1.0,2025-05-31,UPI,No,,yes
+ORD10824,Karthik Reddy, karthik.reddy@yahoo.com ,, Ahmedabad  ,Sports,Running Shoes,-500,1.0,07 Jun 2024,Net Banking,no,5.0,Y
+ORD10076,Kavya Iyer,,6887676772,Coimbatore,grocery,Tea Powder 500g,399,2.0,08/10/2024,Credit Card,Y,,0
+ORD10513,Anitha Pillai,anitha.pillai@yahoo.com,40064-45475,HYDERABAD,Sports,Running Shoes,199,3.0,17/07/2024,UPI,0,5.0,yes
+ORD10941,Rahul Sharma,rahul.sharma@gmail.com,4587120753, Delhi  ,sports,Running Shoes,"4,999",4.0,03 Feb 2025,Net Banking,N,4.0,No
+ORD10392,Rahul Subramaniam,,57992 70795, Kolkata  ,Books,Self-help Book,₹2499,1.0,18 May 2024,Net Banking,1,4.0,Y
+ORD10896,Lakshmi Nair,lakshmi.nair@outlook.com,9579457595, Coimbatore  ,Books,Cookbook,₹499,,12-16-2024,Debit Card,N,5.0,1
+ORD10433,Kavya Gupta,KAVYA.GUPTA@REDIFFMAIL.COM,14377-69366,BENGALURU,SPORTS,Yoga Mat,599,4.0,10/12/2024,Credit Card,1,4.0,No
+ORD10069,Rahul Menon,rahul.menon@outlook.com,6551104754,Bangalore,grocery,Atta 10kg,"1,499",5.0,24 Jul 2025,UPI,No,,Yes
+ORD10999,Kavya Rao, kavya.rao@yahoo.com ,99213 53470,N/A,Electronic,Wireless Earbuds,unknown,2.0,2025-11-02,Credit Card,no,5.0,Yes
+ORD10168,Manoj Raj,manoj.raj@outlook.com,67478-36674,hyderabad,home & kitchen,Storage Container,unknown,,,Cash on Delivery,,,Yes
+ORD10905,Deepa Subramaniam,deepa.subramaniam@rediffmail.com,82367-88387,bengaluru,HOME & KITCHEN,Water Bottle,999,3.0,16/07/2024,Cash on Delivery,,,Yes
+ORD10731,Kavya Raj,kavya.raj@rediffmail.com,+913533998242,MUMBAI,Grocery,Atta 10kg,149,5.0,,UPI,Yes,,No
+ORD10555,Sneha Reddy,SNEHA.REDDY@REDIFFMAIL.COM,0063553730,Delhi,Toys,Action Figure,₹799,5.0,23/09/2025,Net Banking,0,,No
+ORD10367,Deepa Menon, deepa.menon@yahoo.com ,23116 49133,KOCHI,Home & Kitchen,LED Bulb,2999,3.0,,Cash on Delivery,,,
+ORD10346,Sanjay Menon,SANJAY.MENON@OUTLOOK.COM,4161394498, Bengaluru  ,Electronics,Smartwatch,"1,199",5.0,02-20-2024,Cash on Delivery,N,,1
+ORD10536,Lakshmi Sharma,lakshmi.sharma@outlook.com,93186-92897, Bengaluru  ,CLOTHING,Jacket,₹2499,4.0,2024-11-14,Cash on Delivery,,5.0,Y
+ORD10920,Arun Reddy,arun.reddy@rediffmail.com,+914215783792, Bengaluru  ,grocery,Sugar 1kg,₹299,3.0,,Net Banking,1,5.0,
+ORD10212,Kavya Menon,kavya.menon@gmail.com,8374550842,pune,beauty,Sunscreen,199,3.0,,Debit Card,No,,No
+ORD10503,Ritu Pillai,ritu.pillai@rediffmail.com,7040953141,Hyderabad,Clothing,Formal Shirt,₹4999,5.0,21 May 2025,Net Banking,Y,5.0,0
+ORD10538,Rahul Subramaniam,,2816506463,Hyderabad,home & kitchen,Mixer Grinder,349,4.0,01/09/2025,Debit Card,0,3.0,0
+ORD10176,Pooja Iyer,POOJA.IYER@YAHOO.COM,1379956353, Ahmedabad  ,Home & Kitchen,Non-stick Pan,1199,4.0,26/02/2025,Credit Card,N,1.0,No
